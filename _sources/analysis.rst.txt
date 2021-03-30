@@ -1,0 +1,22 @@
+.. _analysis:
+
+Analysis
+========
+
+Open source software
+^^^^^^^^^^^^^^^^^^^^^
+
+The LinkedEarth team currently maintain the following open source packages:
+
+* `LiPD utilities <https://nickmckay.github.io/LiPD-utilities/>`_: source code is available in Python, R, and Matlab. The utilities allow to open, manipulate, and write files using the `Linked Paleo Data (LiPD) <https://lipd.net>` format.
+* `GeoChronR <https://nickmckay.github.io/GeoChronR/>`_: A integrated framework in R that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with  a number of commonly-used techniques, and visualize their results in an intuitive way.
+* `Pyleoclim <https://pyleoclim-util.readthedocs.io/en/stable/>`_: a Python package designed for the analysis of paleoclimate data. Pyleoclim leverages various data science libraries (numpy, pandas, scikit-learn) for time series analysis, as well as and Matplotlib and Cartopy for the creation of publication-quality figures. The package is designed around object-oriented Series, which can be directly manipulated for plotting, spectral and wavelet analysis, and other time series-appropriate operations.
+
+Both GeoChronR and Pyleoclim natively "speaks" the language of LiPD.
+
+Computational Narratives
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+* We have a `library of Jupyter Notebooks <https://github.com/LinkedEarth/LiPDbooks>`_ illustrating the use of Pyleoclim in paleoclimate research.
+* R vignettes are available from the `GeoChronR Github repository <https://github.com/nickmckay/GeoChronR>`_.
+* `autoTS <https://knowledgecaptureanddiscovery.github.io/autoTS/>`_: an automated system for time series analysis.

@@ -1,0 +1,25 @@
+.. _funders:
+
+
+
+Funders and Collaborators
+=========================
+
+National Science Foundation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+LinkedEarth has originated from the `NSF EarthCube program <https://earthcube.org/>`_. This award supported the creation of the :ref:`PaCTS standard <data_stewards>`, the :ref:`LinkedEarth wiki <community>`, and :ref:`Pyleoclim <analysis>`.
+
+:ref:`GeoChronR <analysis>` was supported by a grant for the `NSF Geoinformatics program <https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503447>`_.
+
+:ref:`PReSto <data_products>` is funded under the `NSF Geoinformatics program <https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503447>`_.
+
+NOAA
+^^^^
+
+:ref:`The Last Millennium Reanalysis <data_products>` was developed under a NOAA grant.
+
+Industry
+^^^^^^^^
+
+:ref:`Pyleoclim <analysis>` was further supported by a grant from `JP Morgan AI Research <https://www.jpmorgan.com/insights/technology/artificial-intelligence>`_, supporting the development of :ref:`autoTS <analysis>`.

@@ -1,0 +1,116 @@
+.. LinkedEarth documentation master file, created by
+   sphinx-quickstart on Tue Mar  9 14:15:51 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. image:: figures/LinkedEarth_small.png
+  :width: 50%
+  :align: center
+  :alt: LinkedEarth Logo. Credit: Deborah Khider
+
+
+A community for the paleosciences
+=================================
+
+What is LinkedEarth?
+""""""""""""""""""""
+
+LinkedEarth is a community of paleoscientists working to develop standards and software to enable paleoscience in the era of Big Data. This community produces data products and standards, software, cyberinfrastructure, and training opportunities.
+
+LinkedEarth originated in 2016 through a grant from the National Science Foundation EarthCube program. The original goal of the project was to create a platform for the archival of paleoclimate dataset and to centralize the discussion about standardization of these datasets. Since then, the community has grown towards using these standards to build automated tools for the analysis of these datasets and other data products.
+
+There is no formal registration for LinkedEarth. We hope that you will join this growing community because the tools we provide become part of your scientific workflow.
+
+This website contains general information about LinkedEarth. For news and updates, please follow our `Medium blog <https://linkedearth.medium.com/about>`_ and our `Twitter feed <https://twitter.com/linked_earth>`_. To engage with the community, `email us <mailto:linkedearth@gmail.com>`_ for a Slack invite and browse our `GitHub repos <https://github.com/LinkedEarth>`_.
+
+People
+""""""
+
+
+Core Team
+^^^^^^^^^
+
+As of 2021, the core team is composed of:
+
+.. raw:: html
+
+  <div class="gallery">
+  <a target="_blank" href="deborah.jpg">
+    <img src="_static/deborah.jpg" alt="Deborah Khider" width="300" height="200" style="vertical-align:middle">
+  </a>
+  <div class="desc"><p><a href="https://earth.usc.edu/~khider/">Deborah Khider</a></p> <p>Information Sciences Institute</p> <p>University of Southern California</p></div>
+  </div>
+
+  <div class="gallery">
+  <a target="_blank" href="julien.jpg">
+    <img src="_static/julien.jpg" alt="Julien Emile-Geay" width="300" height="200" style="vertical-align:middle">
+  </a>
+  <div class="desc"><p><a href="https://scholar.google.com/citations?hl=en&user=OVti4jEAAAAJ&view_op=list_works&sortby=pubdate">Julien Emile-Geay</a></p> <p>Department of Earth Sciences</p> <p>University of Southern California</p></div>
+  </div>
+
+  <div class="gallery">
+  <a target="_blank" href="nick.jpeg">
+    <img src="_static/nick.jpeg" alt="Nick McKay" width="300" height="200" style="vertical-align:middle">
+  </a>
+  <div class="desc"><p><a href="https://directory.nau.edu/person/npm4">Nick McKay</a></p> <p>School of Earth and Sustainability</p> <p>Northern Arizona University</p></div>
+  </div>
+
+
+Contributors
+^^^^^^^^^^^^
+
+* `Feng Zhu <https://earth.usc.edu/~fengzhu/>`_, Department of Earth Sciences, University of Southern California
+* Alexander James, Department of Earth Sciences, University of Southern California
+* `Cody Rouston <https://scholar.google.com/citations?user=TQAQTl0AAAAJ&hl=en>`_, School of Earth and Sustainability, Northern Arizona University
+* `Michael Erb <https://www.michaelerb.org>`_, School of Earth and Sustainability, Northern Arizona University
+* `Daniel Garijo <https://dgarijo.com>`_, Ontology Engineering Group, Universidad Politécnica de Madrid
+* `Yolanda Gil <https://www.isi.edu/~gil/>`_, Information Sciences Institute and Department of Computer Sciences, University of Southern California
+* `Varun Ratnakar <https://uk.linkedin.com/in/varun-ratnakar-2b537a78>`_, Karya Limited
+
+Getting involved
+^^^^^^^^^^^^^^^^
+
+To engage with the community, `email us <mailto:linkedearth@gmail.com>`_ for a Slack invite and browse our `GitHub repos <https://github.com/LinkedEarth>`_.
+
+Activities
+""""""""""
+
+The LinkedEarth activities can be grouped under the following:
+
+* :ref:`Community <community>`
+* :ref:`Analysis <analysis>`
+* :ref:`Data Products <data_products>`
+* :ref:`Data Stewardship <data_stewards>`
+
+.. image:: figures/LinkedEarth_diagram_current.png
+    :alt: The LinkedEarth community. Credit: Deborah Khider
+
+PRESTO: TO DO
+LMR: https://cpo.noaa.gov/News/News-Article/ArtMID/6226/ArticleID/1807/Last-Millennium-Reanalysis-now-at-NOAAs-National-Centers-for-Environmental-Information-marking-major-milestone
+Partners: PAGES is a trusted partner, there are several existing PAGES project that that have adopted LinkedEarth tools.
+
+News
+""""
+
+.. raw:: html
+
+    <div class="row">
+     <div class="col-md-6 center-block">
+        <p class="text-center font-italic">We use twitter to share announcements and retweet content of interest to our community.</p>
+        <a href="https://twitter.com/Linked_Earth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Linked_Earth</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a class="twitter-timeline" href="https://twitter.com/Linked_Earth?ref_src=twsrc%5Etfw">Tweets by LinkedEarth</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+     </div>
+    </div>
+
+Contents
+""""""""
+.. toctree::
+    :maxdepth: 1
+
+    community.rst
+    analysis.rst
+    data_products.rst
+    data_stewards.rst
+    publications.rst
+    funders_and_collaborators.rst
+    contact.rst

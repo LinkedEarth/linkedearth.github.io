@@ -1,0 +1,20 @@
+Contact LinkedEarth
+===================
+
+**SLACK**
+
+Announcements and general discussion is done through our Slack workspace. `Email us <mailto:linkedearth@gmail.com>`_ for an invitation. This is the best place to start getting involved with the community.
+
+
+**GITHUB**
+
+All technical discussion should go through GitHub. Please use project-specific GitHub repository.
+
+**OTHER MEDIA**
+
+LinkedEarth's online presence also includes:
+
+* Medium Blog: `https://linkedearth.medium.com/about <https://linkedearth.medium.com/about>`_
+* Twitter: `https://twitter.com/linked_earth <https://twitter.com/linked_earth>`_
+
+If you wish to contact LinkedEarth via a non-public channel, email us at `linkedearth@gmail.com <mailto:linkedearth@gmail.com>`_.
