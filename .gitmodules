@@ -1,0 +1,3 @@
+[submodule "ontology_repository"]
+	path = ontology_repository
+	url = https://github.com/LinkedEarth/Ontology
