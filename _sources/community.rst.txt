@@ -3,26 +3,36 @@
 Community
 =========
 
+Updates
+^^^^^^^
+The `CyberPaleo blog <https://medium.com/cyberpaleo>`_ features updates from the LinkedEarth team and affiliates, as well as guest posts from various partners.
+
 Discussion
 ^^^^^^^^^^
-**SLACK**
 
-Announcements and general discussion is done through our Slack workspace. `Email us <mailto:linkedearth@gmail.com>`_ for an invitation. This is the best place to start getting involved with the community.
-
-**GITHUB**
-
-All technical discussion should go through GitHub. Please use project-specific GitHub repository. All of our packages follow the `Open Development <https://en.wikipedia.org/wiki/Open-source_software_development>`_ model. See each repository for guidelines.
+- SLACK: Announcements and general discussion is done through our Slack workspace. `Email us <mailto:linkedearth@gmail.com>`_ for an invitation. This is the best place to start getting involved with LinkedEarth.
+- GITHUB: All technical discussion should go through GitHub. Please use project-specific GitHub repositories (e.g. `Pyleoclim repository <https://github.com/LinkedEarth/Pyleoclim_util>`_). All of our packages follow the `Open Development <https://en.wikipedia.org/wiki/Open-source_software_development>`_ model. See each repository for guidelines.
 
 Training
 ^^^^^^^^
 
 We offer training opportunities through the following modalities:
-* Tutorials through our `YouTube channel <https://www.youtube.com/channel/UCo7yzNTM__4g5H-xyWV5KbA>`_.
-* Hackathons:
 
-  * `paleoHack <https://linkedearth.github.io/paleoHackathon/>`_, dedicated to `Pyleoclim <https://pyleoclim-util.readthedocs.io/en/stable/>`_:
+- Tutorials through our `YouTube channel <https://www.youtube.com/channel/UCo7yzNTM__4g5H-xyWV5KbA>`_.
 
-    * Previous hackathons materials are available through `this GitHub repository <https://github.com/LinkedEarth/paleoHackathon>`_. The notebooks are released through myBinder and hosted on its own JupyterHub. `Email us <mailto:linkedearth@gmail.com>`_ for a Hub account.
-    * We will be hosting our next hackathon in the Fall of 2021.
+.. raw:: html
 
-  * GeoChronR workshops
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL93NbaRnKAuF4WpIQf-4y_U4lo-GqcrcW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Hackathons:
+
+  * `paleoHack <https://linkedearth.github.io/paleoHackathon/>`_, dedicated to Ptyhon tools, particularly `Pyleoclim <https://pyleoclim-util.readthedocs.io/en/stable/>`_:
+
+    * Previous hackathon materials are available through `this GitHub repository <https://github.com/LinkedEarth/paleoHackathon>`_. The notebooks are released through myBinder and hosted on its own JupyterHub. `Email us <mailto:linkedearth@gmail.com>`_ for a Hub account.
+    * We will be hosting our next hackathon on October 28th-29th 2021. See `here <https://linkedearth.github.io/paleoHackathon/>`_ for details.
+
+  * GeoChronR workshops (2016, 2017, 2021 in the works)
+
+PAGES
+^^^^^
+`Past Global Changes (PAGES) <http://www.pastglobalchanges.org>`_ has supported and advertised LinkedEarth activities since the beginning. Several existing PAGES projects have adopted LinkedEarth tools, including `PAGES 2k <http://www.pastglobalchanges.org/science/wg/acme/intro?id=221>`_, `Iso 2k <http://www.pastglobalchanges.org/science/wg/2k-network/projects/iso2k/intro>`_ and `CRIAS <http://www.pastglobalchanges.org/science/wg/crias/intro>`_.

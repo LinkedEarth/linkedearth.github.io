@@ -1,0 +1,16 @@
+.. _meeting:
+
+
+
+Meeting Schedule and Notes
+==========================
+
+Community Meeting
+^^^^^^^^^^^^^^^^^
+
+LinkedEarth will open its meeting to the community in Spring 2021. The meetings will take place biweekly at 9am US Pacific time on Mondays.
+
+Notes
+^^^^^
+
+All meeting notes are `public <https://docs.google.com/document/d/1WxfYztmehBRCjMRWA8VMrWxe_4by2XPa3W3vCeF7CSo/edit?usp=sharing>`_. 

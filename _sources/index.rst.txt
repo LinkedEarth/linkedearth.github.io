@@ -55,6 +55,8 @@ As of 2021, the core team is composed of:
   <div class="desc"><p><a href="https://directory.nau.edu/person/npm4">Nick McKay</a></p> <p>School of Earth and Sustainability</p> <p>Northern Arizona University</p></div>
   </div>
 
+|
+|
 
 Contributors
 ^^^^^^^^^^^^
@@ -85,9 +87,9 @@ The LinkedEarth activities can be grouped under the following:
 .. image:: figures/LinkedEarth_diagram_current.png
     :alt: The LinkedEarth community. Credit: Deborah Khider
 
-PRESTO: TO DO
-LMR: https://cpo.noaa.gov/News/News-Article/ArtMID/6226/ArticleID/1807/Last-Millennium-Reanalysis-now-at-NOAAs-National-Centers-for-Environmental-Information-marking-major-milestone
-Partners: PAGES is a trusted partner, there are several existing PAGES project that that have adopted LinkedEarth tools.
+|
+
+To stay up-to-date with LinkedEarth activities, subscribe to our :ref:`calendar <calendar>`.
 
 News
 """"
@@ -113,4 +115,6 @@ Contents
     data_stewards.rst
     publications.rst
     funders_and_collaborators.rst
+    calendar.rst
+    meeting.rst
     contact.rst
