@@ -13,4 +13,16 @@ The LinkedEarth team has also been funded through a `NSF Geoinformatics grant <h
 Partnership
 ^^^^^^^^^^^
 
-The team has been involved in various projects with PAGES (e.g., `Pages2k <http://pastglobalchanges.org/science/wg/2k-network/intro>`_, `Iso2k <http://pastglobalchanges.org/science/wg/2k-network/projects/iso2k>`_, `Temp12k <https://www.nature.com/articles/s41597-020-0445-3>`_). The data for these projects are available in LiPD format `through the LiPDverse <https://lipdverse.org>`_.
+The team has been involved in various projects with PAGES:
+
+* `Pages2k <http://pastglobalchanges.org/science/wg/2k-network/intro>`_
+
+*  `Iso2k <http://pastglobalchanges.org/science/wg/2k-network/projects/iso2k/intro>`_
+
+* `CoralHydro2k <https://pastglobalchanges.org/science/wg/2k-network/projects/coral-hydro/intro>`_
+
+* `Temp12k <https://www.nature.com/articles/s41597-020-0445-3>`_.
+
+As well as with the German-funded `PALMOD <https://www.palmod.de>`_ project.
+
+The data for these projects are available in LiPD format `through the LiPDverse <https://lipdverse.org>`_.

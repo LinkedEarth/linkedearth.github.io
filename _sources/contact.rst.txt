@@ -1,11 +1,6 @@
 Contact LinkedEarth
 ===================
 
-**SLACK**
-
-Announcements and general discussion is done through our Slack workspace. `Email us <mailto:linkedearth@gmail.com>`_ for an invitation. This is the best place to start getting involved with the community.
-
-
 **GITHUB**
 
 All technical discussion should go through GitHub. Please use project-specific GitHub repository.

@@ -1,18 +1,18 @@
 .. _funders:
 
-
-
 Funders and Collaborators
 =========================
 
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-LinkedEarth has originated from the `NSF EarthCube program <https://earthcube.org/>`_. This award supported the creation of the :ref:`PaCTS standard <data_stewards>`, the :ref:`LinkedEarth wiki <community>`, and :ref:`Pyleoclim <analysis>`.
+LinkedEarth has originated from the `NSF EarthCube program <https://earthcube.org/>`_. This award supported the creation of the :ref:`PaCTS standard <data_stewards>`, the :ref:`LinkedEarth wiki <https://wiki.linked.earth/Main_Page>`, and :ref:`Pyleoclim <analysis>`.
 
 :ref:`GeoChronR <analysis>` was supported by a grant for the `NSF Geoinformatics program <https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503447>`_.
 
 :ref:`PReSto <data_products>` is funded under the `NSF Geoinformatics program <https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503447>`_.
+
+The `NSF EarthCube program <https://earthcube.org/>`_ is currently supporting most of the :ref:`analysis` and :ref:`community` activities under the `PaleoCube award <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126510&HistoricalAwards=false>`_.
 
 NOAA
 ^^^^
@@ -23,3 +23,8 @@ Industry
 ^^^^^^^^
 
 :ref:`Pyleoclim <analysis>` was further supported by a grant from `JP Morgan AI Research <https://www.jpmorgan.com/insights/technology/artificial-intelligence>`_, supporting the development of :ref:`autoTS <analysis>`.
+
+Office of Naval Research
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+:ref:`ClimateDISK <analysis>` is supported by a grant from the Office of Naval Research to Gil. 

@@ -14,6 +14,11 @@ A data standard is actually comprised of three components:
 2. A standard vocabulary for the data, which has been developed by NOAA (`PaST Thesaurus <https://www.ncdc.noaa.gov/data-access/paleoclimatology-data/past-thesaurus>`_)
 3. Standard guidelines for reporting of the data, which are provided by PaCTS `crowdsourced standard for the reporting of paleoclimate data (PaCTS) <https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019PA003632>`_. The work involved 135 researchers worldwide and was highlighted by the American Geophysical Union (AGU)'s `research highlights <https://eos.org/research-spotlights/standardizing-the-surge-of-paleoclimate-data>`_ and at the `Fall Meeting 2019 <https://www.youtube.com/watch?v=cjkSGnlNwX0&list=PL7Ihm2Mh3MZ5ff8PVBZ3dBLYQdwZLQlEY&index=32>`_.
 
+LiPD playground
+^^^^^^^^^^^^^^^
+
+The `LiPD playground <https://lipd.net/playground>`_ is a web interface that allows to easily create LiPD files. The interface includes a `recommender system (PaleoRec) <https://paleorec.readthedocs.io/en/latest/index.html>`_ that assists in metadata information. PaleoRec uses deep learning for recommendation. Technical details are summarized in `this paper <https://www.cambridge.org/core/journals/environmental-data-science/article/paleorec-a-sequential-recommender-system-for-the-annotation-of-paleoclimate-datasets/30B71DFD01C99A3773B4CEAAB2497B2D>`_.
+
 LiPDverse
 ^^^^^^^^^
 

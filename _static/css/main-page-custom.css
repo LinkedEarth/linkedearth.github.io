@@ -23,3 +23,53 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
+
+
+.grid-container{
+    display: grid;
+    width: 70%;
+    margin: 90px auto;
+    }
+
+.box {
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    resize: both;
+    text-align: center;
+    }
+
+.box img {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  max-width: 100%;
+  vertical-align:middle;
+  top: 10%;
+}
+
+.box desc {
+  text-align: center;
+  display: block;
+  margin-bottom: 100px;
+}
+
+
+.sub-con {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .sub-con {
+     grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .sub-con {
+    grid-template-columns: 1fr;
+  }
+}

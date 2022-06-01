@@ -1,8 +1,20 @@
 Publications
 ============
 
-Below are publications about LinkedEarth or reusing LinkedEarth tools. Please `email us <mailto:linkedearth@gmail.com>`_ to add your publication(s) to the list. 
+Below are publications about LinkedEarth or reusing LinkedEarth tools. Please `email us <mailto:linkedearth@gmail.com>`_ to add your publication(s) to the list.
+
+Peer-Review Papers
+^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
 
     <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F2875157%2Fitems%3Fkey%3DcphI3T6CrlDY1YrGsX1VhcQT%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+
+Presentations
+^^^^^^^^^^^^^
+
+The following slide decks give overviews of LinkedEarth activities and demonstrations.
+
+* `AGU Townhall Fall 2021 <https://tinyurl.com/5469hjsz>`_
+
+* `PaleoCube overview <https://docs.google.com/presentation/d/1DzCedM9nKnbeS5-TCb-1obN3C23rbeQlOnhr0-1w_-8/edit?usp=sharing>`_

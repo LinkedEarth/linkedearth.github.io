@@ -21,7 +21,7 @@ LinkedEarth originated in 2016 through a grant from the National Science Foundat
 
 There is no formal registration for LinkedEarth. We hope that you will join this growing community because the tools we provide become part of your scientific workflow.
 
-This website contains general information about LinkedEarth. For news and updates, please follow our `Medium blog <https://linkedearth.medium.com/about>`_ and our `Twitter feed <https://twitter.com/linked_earth>`_. To engage with the community, `email us <mailto:linkedearth@gmail.com>`_ for a Slack invite and browse our `GitHub repos <https://github.com/LinkedEarth>`_.
+This website contains general information about LinkedEarth. For news and updates, please follow our `Medium blog <https://linkedearth.medium.com/about>`_ and our `Twitter feed <https://twitter.com/linked_earth>`_.
 
 People
 """"""
@@ -34,35 +34,43 @@ As of 2021, the core team is composed of:
 
 .. raw:: html
 
-  <div class="gallery">
-  <a target="_blank" href="deborah.jpg">
-    <img src="_static/deborah.jpg" alt="Deborah Khider" width="300" height="200" style="vertical-align:middle">
-  </a>
-  <div class="desc"><p><a href="https://earth.usc.edu/~khider/">Deborah Khider</a></p> <p>Information Sciences Institute</p> <p>University of Southern California</p></div>
+ <div class="grid-container">
+  <div class="sub-con">
+
+
+  <div class="box">
+    <a target="_blank" href="deborah.jpg">
+      <img src="_static/deborah.jpg" alt="Deborah Khider">
+    </a>
+    <span class="desc"><p><a href="https://earth.usc.edu/~khider/">Deborah Khider</a></p> <p>Information Sciences Institute</p> <p>University of Southern California</p></span>
   </div>
 
-  <div class="gallery">
-  <a target="_blank" href="julien.jpg">
-    <img src="_static/julien.jpg" alt="Julien Emile-Geay" width="300" height="200" style="vertical-align:middle">
-  </a>
-  <div class="desc"><p><a href="https://scholar.google.com/citations?hl=en&user=OVti4jEAAAAJ&view_op=list_works&sortby=pubdate">Julien Emile-Geay</a></p> <p>Department of Earth Sciences</p> <p>University of Southern California</p></div>
+
+
+  <div class="box">
+    <a target="_blank" href="julien.jpg">
+      <img src="_static/julien.jpg" alt="Julien Emile-Geay">
+    </a>
+    <span class="desc"><p><a href="https://scholar.google.com/citations?hl=en&user=OVti4jEAAAAJ&view_op=list_works&sortby=pubdate">Julien Emile-Geay</a></p> <p>Department of Earth Sciences</p> <p>University of Southern California</p></span>
   </div>
 
-  <div class="gallery">
-  <a target="_blank" href="nick.jpeg">
-    <img src="_static/nick.jpeg" alt="Nick McKay" width="300" height="200" style="vertical-align:middle">
-  </a>
-  <div class="desc"><p><a href="https://directory.nau.edu/person/npm4">Nick McKay</a></p> <p>School of Earth and Sustainability</p> <p>Northern Arizona University</p></div>
+  <div class="box">
+    <a target="_blank" href="nick.jpg">
+      <img src="_static/nick.jpeg" alt="Nick McKay">
+    </a>
+    <span class="desc"><p><a href="https://directory.nau.edu/person/npm4">Nick McKay</a></p> <p>School of Earth and Sustainability</p> <p>Northern Arizona University</p></span>
   </div>
 
-|
-|
+  </div>
+  </div>
+
 
 Contributors
 ^^^^^^^^^^^^
 
-* `Feng Zhu <https://earth.usc.edu/~fengzhu/>`_, Department of Earth Sciences, University of Southern California
-* Alexander James, Department of Earth Sciences, University of Southern California
+* `Feng Zhu <https://earth.usc.edu/~fengzhu/>`_, School of Atmospheric Sciences, Nanjing University of Information Science & Technology
+* `Alexander James <https://www.linkedin.com/in/alexander-james-327464a8/>`_, Department of Earth Sciences, University of Southern California
+* `Jordan Landers <https://scholar.google.com/citations?user=1PVSSxwAAAAJ&hl=en&authuser=1>`_, Department of Earth Sciences, University of Southern California
 * `Cody Rouston <https://scholar.google.com/citations?user=TQAQTl0AAAAJ&hl=en>`_, School of Earth and Sustainability, Northern Arizona University
 * `Michael Erb <https://www.michaelerb.org>`_, School of Earth and Sustainability, Northern Arizona University
 * `Daniel Garijo <https://dgarijo.com>`_, Ontology Engineering Group, Universidad Politécnica de Madrid
@@ -72,7 +80,10 @@ Contributors
 Getting involved
 ^^^^^^^^^^^^^^^^
 
-To engage with the community, `email us <mailto:linkedearth@gmail.com>`_ for a Slack invite and browse our `GitHub repos <https://github.com/LinkedEarth>`_.
+To engage with the community, there are three main ways:
+* Browse our `GitHub repos < https://oeg-upm.github.io/soca/example/LinkedEarth/index.html>`_
+* Visit our `Discourse forum <https://discourse.linked.earth>`_
+* `Email us <mailto:linkedearth@gmail.com>`_ to join an Ask Me Anything (AMA) session
 
 Activities
 """"""""""
@@ -86,8 +97,6 @@ The LinkedEarth activities can be grouped under the following:
 
 .. image:: figures/LinkedEarth_diagram_current.png
     :alt: The LinkedEarth community. Credit: Deborah Khider
-
-|
 
 To stay up-to-date with LinkedEarth activities, subscribe to our :ref:`calendar <calendar>`.
 
