@@ -20,4 +20,6 @@ Computational Narratives
 * We have a `library of Jupyter Notebooks <https://github.com/LinkedEarth/LiPDbooks>`_ illustrating the use of Pyleoclim in paleoclimate research.
 * R vignettes are available from the `GeoChronR Github repository <https://github.com/nickmckay/GeoChronR>`_.
 * `autoTS <https://knowledgecaptureanddiscovery.github.io/autoTS/>`_: an automated system for time series analysis.
-* ClimateDISK: a framework to test and revise hypotheses based on automatic analysis of scientific data as it becomes available over time. 
+* ClimateDISK: a framework to test and revise hypotheses based on automatic analysis of scientific data as it becomes available over time.
+
+See our :ref:`Gallery <gallery>` for examples of fully executable notebooks.

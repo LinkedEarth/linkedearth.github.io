@@ -37,7 +37,6 @@ As of 2021, the core team is composed of:
  <div class="grid-container">
   <div class="sub-con">
 
-
   <div class="box">
     <a target="_blank" href="deborah.jpg">
       <img src="_static/deborah.jpg" alt="Deborah Khider">
@@ -81,8 +80,11 @@ Getting involved
 ^^^^^^^^^^^^^^^^
 
 To engage with the community, there are three main ways:
-* Browse our `GitHub repos < https://oeg-upm.github.io/soca/example/LinkedEarth/index.html>`_
+
+* Browse our `GitHub repos <https://oeg-upm.github.io/soca/example/LinkedEarth/index.html>`_
+
 * Visit our `Discourse forum <https://discourse.linked.earth>`_
+
 * `Email us <mailto:linkedearth@gmail.com>`_ to join an Ask Me Anything (AMA) session
 
 Activities
@@ -120,6 +122,7 @@ Contents
 
     community.rst
     analysis.rst
+    gallery.rst
     data_products.rst
     data_stewards.rst
     publications.rst

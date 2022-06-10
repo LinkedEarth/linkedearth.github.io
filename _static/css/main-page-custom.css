@@ -24,6 +24,12 @@ div.desc {
   text-align: center;
 }
 
+div.desc img{
+  padding: 15px;
+  width: auto;
+  height: auto;
+}
+
 
 .grid-container{
     display: grid;
