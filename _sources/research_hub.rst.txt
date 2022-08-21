@@ -1,0 +1,63 @@
+.. _researchhub:
+
+Research Hub
+============
+
+What is the hub and who is it for?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If you have access to a decent internet connection, you can use the `LinkedEarth JupyterHub <https://linkedearth.2i2c.cloud/>`_ for your research. A `JupyterHub <https://jupyter.org/hub>`_ is a curated computational environment that runs in the cloud, and makes it possible to provide advanced data science access to any user in the world. Our hub is designed for people intending on using Pyleoclim in their own work, particularly for `paleoclimate data-model comparisons <https://medium.com/cyberpaleo/announcing-the-next-linkedearth-chapter-paleocube-790778b6ffb0>`_.
+Several users may find the LinkedEarth hub an appealing place to do research, for instance those who:
+
+- cannot run computations on their own laptop, OR
+
+- do not want to install Python and Pyleoclim on their machine, OR
+
+- do not have access to a computer cluster, OR
+
+- want to perform complex workflows on large `Analysis-Ready, Cloud-Optimized <https://doi.org/10.3389/fclim.2021.782909>`_ datasets (e.g. PMIP model output)
+
+Though the environment is provided and curated by LinkedEarth, the contents of your hub folders are entirely private. We do recommend copying over precious data once you are finished with your analysis, just to be safe.
+
+The hub is entirely free to use but comes with strings attached:
+
+- even in the Cloud, resources are not infinite, and we cannot guarantee high performance for large number of simultaneous users
+
+- we cannot maintain an infinitely complex Python environment (though we will work with users to accommodate reasonable requests)
+
+- we do not know at this stage how long this service will exist. Assume for now that it will sunset in 2024, unless we find a more perennial source of funding. Enjoy it while it lasts!
+
+Code of conduct
+^^^^^^^^^^^^^^^
+Use of the LinkedEarth Hub implies that you subscribe to the LinkedEarth `code of conduct <https://github.com/LinkedEarth/governance/blob/main/code-of-conduct.md>`_ which pretty much amounts to being a decent human being. It also requires that you:
+
+- pledge to only use this resource for academic work in the climate and paleo-sciences
+
+- refrain from using the hub as storage space for large files (>100Mb). Please check with us if you need to do so temporarily.
+
+- pledge to properly cite all software and computational resources used when you publish any work done through this platform
+
+- `email us <mailto:linkedearth@gmail.com>`_ any paper/abstract that used the hub. We want to know what sparks you make with this!
+
+How to sign up
+^^^^^^^^^^^^^^
+To sign up, please `email us <mailto:linkedearth@gmail.com>`_ to obtain an account, which may take 1-2 business days to review.
+Upon login, you will be asked to choose between 4 server options. The "Small" server (5GB RAM, 2 CPU) option should be enough for most applications, though you may need the larger ones when processing large model output. We recommend using as few resources as you need to make room for other users.
+
+Tutorials
+^^^^^^^^^
+There are various ways to get acquainted with Python in general and Pyleoclim in particular:
+
+- Self-paced tutorials to learn `basic Python <http://linked.earth/ec_workshops_py/>`_, including the scientific Python ecosystem (NumPy, SciPy, Jupyter, Matplotlib, Pandas, Cartopy, GitHub).
+
+- `Pythia Foundations <https://foundations.projectpythia.org/>`_, a community learning resource for Python-based computing in the geosciences.
+
+- Self-paced `tutorials <http://linked.earth/PyleoTutorials>`_ to learn how to wield `Pyleoclim <https://pyleoclim-util.readthedocs.io/>`_.
+
+- `PaleoBooks <https://github.com/LinkedEarth/PaleoBooks>`_, a collection of Jupyter notebooks illustrating the scientific use of software libraries maintained by LinkedEarth. This collection will see rapid growth in 2022/2023, and will be designed for hub users. If you want the LinkedEarth team to develop notebooks that mimic the sort of analysis you might want to do, please request them on `Discourse <https://discourse.linked.earth/c/science>` or `open a GitHub issue <https://github.com/LinkedEarth/PaleoBooks/issues/new/choose>`_. No one is here to scoop your ideas; we will just try to provide solutions to your problems to the best of our ability and in maximally re-usable ways.
+
+For details on further training opportunities and general ways to get help, please see the :ref:`community` page.
+
+Support
+^^^^^^^
+
+This research hub is supported by NSF grant `ICER 2126510 <https://nsf.gov/awardsearch/showAward?AWD_ID=2126510&HistoricalAwards=false>`_ from the `EarthCube program <https://www.earthcube.org>`_.

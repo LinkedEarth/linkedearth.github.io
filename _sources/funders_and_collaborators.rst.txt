@@ -6,7 +6,7 @@ Funders and Collaborators
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-LinkedEarth has originated from the `NSF EarthCube program <https://earthcube.org/>`_. This award supported the creation of the :ref:`PaCTS standard <data_stewards>`, the `LinkedEarth wiki <https://wiki.linked.earth/Main_Page>`, and :ref:`Pyleoclim <analysis>`.
+LinkedEarth has originated from the `NSF EarthCube program <https://earthcube.org/>`_. This award supported the creation of the :ref:`PaCTS standard <data_stewards>`, the `LinkedEarth wiki <https://wiki.linked.earth/Main_Page>`_, and :ref:`Pyleoclim <analysis>`.
 
 :ref:`GeoChronR <analysis>` was supported by a grant for the `NSF Geoinformatics program <https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503447>`_.
 

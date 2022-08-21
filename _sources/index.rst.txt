@@ -97,10 +97,16 @@ The LinkedEarth activities can be grouped under the following:
 * :ref:`Data Products <data_products>`
 * :ref:`Data Stewardship <data_stewards>`
 
-.. image:: figures/LinkedEarth_diagram_current.png
-    :alt: The LinkedEarth community. Credit: Deborah Khider
+These four umbrellas gather more specific activities,  as seen on the diagram below, and detailed in the various pages of this site.
 
 To stay up-to-date with LinkedEarth activities, subscribe to our :ref:`calendar <calendar>`.
+
+<br>
+<br>
+
+.. image:: figures/LinkedEarth_diagram_current.png
+    :alt: LinkedEarth Activities. Credit: Deborah Khider
+
 
 News
 """"

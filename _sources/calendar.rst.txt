@@ -3,6 +3,16 @@
 Calendar
 ========
 
+ICP14 Town Hall
+^^^^^^^^^^^^^^^
+
+LinkedEarth will be represented at `ICP14 <https://icp14.w.uib.no/>`_, with Julien leading a Town Hall event on Wednesday Aug 31 2022 from 13:30 to 14:30 Bergen time.
+Details and registration are `here <https://forms.gle/zunq2bF5Vwji8t4MA>`_. The room location will be provided upon registration.
+
+
+Event calendar
+^^^^^^^^^^^^^^
+
 A Google calendar has been set up for the various activities <`GCAL <https://calendar.google.com/calendar/embed?src=linkedearth%40gmail.com&ctz=America%2FLos_Angeles>`_/`ICAL <https://calendar.google.com/calendar/ical/linkedearth%40gmail.com/public/basic.ics>`_>.
 
 .. raw:: html
