@@ -3,9 +3,14 @@
 Research Hub
 ============
 
+.. image:: figures/paleocube_user_perspective_v1.3.png
+  :width: 70%
+  :align: center
+  :alt: the LinkedEarth research hub
+
 What is the hub and who is it for?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If you have access to a decent internet connection, you can use the `LinkedEarth JupyterHub <https://linkedearth.2i2c.cloud/>`_ for your research. A `JupyterHub <https://jupyter.org/hub>`_ is a curated computational environment that runs in the cloud, and makes it possible to provide advanced data science access to any user in the world. Our hub is designed for people intending on using Pyleoclim in their own work, particularly for `paleoclimate data-model comparisons <https://medium.com/cyberpaleo/announcing-the-next-linkedearth-chapter-paleocube-790778b6ffb0>`_.
+If you have access to a decent internet connection, you can use the `LinkedEarth JupyterHub <https://linkedearth.2i2c.cloud/>`_ for your research. A `JupyterHub <https://jupyter.org/hub>`_ is a curated computational environment that runs in the cloud, and makes it possible to provide advanced data science access to any user in the world. Our hub is designed for people of all levels of Python proficiency intending on using Pyleoclim in their own work, including, but not limited to, `paleoclimate data-model comparisons <https://medium.com/cyberpaleo/announcing-the-next-linkedearth-chapter-paleocube-790778b6ffb0>`_.
 Several users may find the LinkedEarth hub an appealing place to do research, for instance those who:
 
 - cannot run computations on their own laptop, OR

@@ -126,13 +126,14 @@ Contents
 .. toctree::
     :maxdepth: 1
 
-    community.rst
     analysis.rst
-    gallery.rst
+    calendar.rst
+    community.rst
+    contact.rst
     data_products.rst
     data_stewards.rst
-    publications.rst
     funders_and_collaborators.rst
-    calendar.rst
+    gallery.rst
     meeting.rst
-    contact.rst
+    publications.rst
+    research_hub.rst
