@@ -35,18 +35,22 @@ Code of conduct
 ^^^^^^^^^^^^^^^
 Use of the LinkedEarth Hub implies that you subscribe to the LinkedEarth `code of conduct <https://github.com/LinkedEarth/governance/blob/main/code-of-conduct.md>`_ which pretty much amounts to being a decent human being. It also requires that you:
 
-- pledge to only use this resource for academic work in the climate and paleo-sciences
+- pledge to only use this resource for academic work in the climate and paleo-sciences.
 
 - refrain from using the hub as storage space for large files (>100Mb). Please check with us if you need to do so temporarily.
 
-- pledge to properly cite all software and computational resources used when you publish any work done through this platform
+- pledge to properly cite all software and computational resources used when you publish any work done through this platform. Yes, software is citable too!
 
 - `email us <mailto:linkedearth@gmail.com>`_ any paper/abstract that used the hub. We want to know what sparks you make with this!
 
 How to sign up
 ^^^^^^^^^^^^^^
-To sign up, please `email us <mailto:linkedearth@gmail.com>`_ to obtain an account, which may take 1-2 business days to review.
-Upon login, you will be asked to choose between 4 server options. The "Small" server (5GB RAM, 2 CPU) option should be enough for most applications, though you may need the larger ones when processing large model output. We recommend using as few resources as you need to make room for other users.
+To sign up, please fill `this form <https://forms.gle/qyHELp3Goz6TDWgg6>`_, which usually takes 1-2 business days to review and approve.
+Upon login, you will be asked to choose between 4 server options. The "Small" server (5GB RAM, 2 CPU) option should be sufficient for most applications, though you may need the larger ones when processing large model output. We recommend using as few resources as you need to make room for other users, so please start small and only ramp up if needed.
+
+Data privacy & sharing
+^^^^^^^^^^^^^^^^^^^^^^
+Your work on the hub cannot seen by other users, though it is accessible to administrators to ensure proper use and help when needed. All users have a folder called *shared* in their home directory. This is a read-only directory - users cannot write to it, but can access and read from it. If you want to tinker with the files in this directory, you need to copy them to your own directory first. For more details see the `hub documentation <https://docs.2i2c.org/en/latest/>`_.
 
 Tutorials
 ^^^^^^^^^
