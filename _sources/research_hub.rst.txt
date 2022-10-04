@@ -50,7 +50,7 @@ Upon login, you will be asked to choose between 4 server options. The "Small" se
 
 Data privacy & sharing
 ^^^^^^^^^^^^^^^^^^^^^^
-Your work on the hub cannot seen by other users, though it is accessible to administrators to ensure proper use and help when needed. All users have a folder called *shared* in their home directory. This is a read-only directory - users cannot write to it, but can access and read from it. If you want to tinker with the files in this directory, you need to copy them to your own directory first. For more details see the `hub documentation <https://docs.2i2c.org/en/latest/>`_.
+Your work on the hub cannot seen by other users, though it is accessible to `LinkedEarth administrators <http://linked.earth/index.html#core-team>`_ to ensure proper use and help when needed. All users have a folder called *shared* in their home directory. This is a read-only directory - you cannot write to it, but you can access and read from it. If you want to tinker with the files in this directory, you need to copy them to your own directory first. For more details see the `hub documentation <https://docs.2i2c.org/en/latest/>`_.
 
 Tutorials
 ^^^^^^^^^
