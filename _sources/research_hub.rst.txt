@@ -45,8 +45,15 @@ Use of the LinkedEarth Hub implies that you subscribe to the LinkedEarth `code o
 
 How to sign up
 ^^^^^^^^^^^^^^
-To sign up, please fill `this form <https://forms.gle/qyHELp3Goz6TDWgg6>`_, which usually takes 1-2 business days to review and approve.
-Upon login, you will be asked to choose between 4 server options. The "Small" server (5GB RAM, 2 CPU) option should be sufficient for most applications, though you may need the larger ones when processing large model output. We recommend using as few resources as you need to make room for other users, so please start small and only ramp up if needed.
+To sign up, please fill `this form <https://forms.gle/qyHELp3Goz6TDWgg6>`_, which usually takes 1-2 business days to review and approve. Upon approval, you will be asked to join the LinkedEarth organization, which is the only way to access the hub. Don't worry, this does not come with spam emails.
+
+Hub access
+^^^^^^^^^^
+Once a registered member, you can `login here <https://linkedearth.2i2c.cloud/>`_.
+Upon login, you will be asked to choose between 4 server options. The "Small" server (5GB RAM, 2 CPU) option should be sufficient for most applications, though you may need the larger ones when processing large model output.
+We recommend using as few resources as you need to make room for other users - currently 10 simultaneous users are supported. Please start small and only ramp up if needed.
+Be warned that it takes a few minutes to build the server ; this is entirely normal, but you should not expect instant access upon startup.
+The server will automatically shut down after an inactive period of ~ 1 day; if it does, don't worry, your work is safe and you will find it as you left it upon logging back in.
 
 Data privacy & sharing
 ^^^^^^^^^^^^^^^^^^^^^^
