@@ -45,7 +45,7 @@ Use of the LinkedEarth Hub implies that you subscribe to the LinkedEarth `code o
 
 How to sign up
 ^^^^^^^^^^^^^^
-To sign up, please fill `this form <https://forms.gle/qyHELp3Goz6TDWgg6>`_, which usually takes 1-2 business days to review and approve. Upon approval, you will be asked to join the LinkedEarth organization, which is the only way to access the hub. Don't worry, this does not come with spam emails.
+To sign up, please fill `this form <https://forms.gle/sz4GKEoPAwUoXjfZ7>`_, which usually takes 1-2 business days to review and approve. Upon approval, you will be asked to join the LinkedEarth organization, which is the only way to access the hub. Don't worry, this does not come with spam emails.
 
 Hub access
 ^^^^^^^^^^

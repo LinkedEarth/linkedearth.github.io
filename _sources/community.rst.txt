@@ -26,8 +26,8 @@ We offer training opportunities through the following modalities:
 
 - Video tutorials through our `YouTube channel <https://www.youtube.com/channel/UCo7yzNTM__4g5H-xyWV5KbA>`_ :
 
-  * `Pyleoclim tutorials <https://www.youtube.com/watch?v=LJaQBFMK2-Q&list=PL93NbaRnKAuF4WpIQf-4y_U4lo-GqcrcW>`_.
-  * `LiPD tutorials <https://www.youtube.com/watch?v=6yr-qR0aNCo&list=PL93NbaRnKAuGhl9EcH4fy6H0zcEuqacJO>`_.
+  * `Pyleoclim <https://www.youtube.com/watch?v=LJaQBFMK2-Q&list=PL93NbaRnKAuF4WpIQf-4y_U4lo-GqcrcW>`_.
+  * `LiPD <https://www.youtube.com/watch?v=6yr-qR0aNCo&list=PL93NbaRnKAuGhl9EcH4fy6H0zcEuqacJO>`_.
 
 .. raw:: html
 
