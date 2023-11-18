@@ -1,3 +1,5 @@
+.. include:: links.rst
+
 .. _researchhub:
 
 Research Hub
@@ -10,7 +12,7 @@ Research Hub
 
 What is the hub and who is it for?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If you have access to a decent internet connection, you can use the `LinkedEarth JupyterHub <https://linkedearth.2i2c.cloud/>`_ for your research. A `JupyterHub <https://jupyter.org/hub>`_ is a curated computational environment that runs in the cloud, and makes it possible to provide advanced data science access to any user in the world. Our hub is designed for people of all levels of Python proficiency intending on using Pyleoclim in their own work, including, but not limited to, `paleoclimate data-model comparisons <https://medium.com/cyberpaleo/announcing-the-next-linkedearth-chapter-paleocube-790778b6ffb0>`_.
+If you have access to a decent internet connection, you can use the `LinkedEarth JupyterHub`_ for your research. A `JupyterHub`_ is a curated computational environment that runs in the cloud, and makes it possible to provide advanced data science access to any user in the world. Our hub is designed for people of all levels of Python proficiency intending on using Pyleoclim in their own work, including, but not limited to, `paleoclimate data-model comparisons`_.
 Several users may find the LinkedEarth hub an appealing place to do research, for instance those who:
 
 - cannot run computations on their own laptop, OR
@@ -19,7 +21,7 @@ Several users may find the LinkedEarth hub an appealing place to do research, fo
 
 - do not have access to a computer cluster, OR
 
-- want to perform complex workflows on large `Analysis-Ready, Cloud-Optimized <https://doi.org/10.3389/fclim.2021.782909>`_ datasets (e.g. PMIP model output)
+- want to perform complex workflows on large `Analysis-Ready, Cloud-Optimized`_ datasets (e.g. PMIP model output)
 
 Though the environment is provided and curated by LinkedEarth, the contents of your hub folders are entirely private. We do recommend copying over precious data once you are finished with your analysis, just to be safe.
 
@@ -33,7 +35,7 @@ The hub is entirely free to use but comes with strings attached:
 
 Code of conduct
 ^^^^^^^^^^^^^^^
-Use of the LinkedEarth Hub implies that you subscribe to the LinkedEarth `code of conduct <https://github.com/LinkedEarth/governance/blob/main/code-of-conduct.md>`_ which pretty much amounts to being a decent human being. It also requires that you:
+Use of the LinkedEarth Hub implies that you subscribe to the LinkedEarth `code of conduct`_ which pretty much amounts to being a decent human being. It also requires that you:
 
 - pledge to only use this resource for academic work in the climate and paleo-sciences.
 
@@ -41,15 +43,15 @@ Use of the LinkedEarth Hub implies that you subscribe to the LinkedEarth `code o
 
 - pledge to properly cite all software and computational resources used when you publish any work done through this platform. Yes, software is citable too!
 
-- `email us <mailto:linkedearth@gmail.com>`_ any paper/abstract that used the hub. We want to know what sparks you make with this!
+- `Email us`_ any paper/abstract that used the hub. We want to know what sparks you make with this!
 
 How to sign up
 ^^^^^^^^^^^^^^
-To sign up, please fill `this form <https://forms.gle/sz4GKEoPAwUoXjfZ7>`_, which usually takes 1-2 business days to review and approve. Upon approval, you will be asked to join the LinkedEarth organization, which is the only way to access the hub. Don't worry, this does not come with spam emails.
+To sign up, please fill `this form`_, which usually takes 1-2 business days to review and approve. Upon approval, you will be asked to join the LinkedEarth organization, which is the only way to access the hub. Don't worry, this does not come with spam emails.
 
 Hub access
 ^^^^^^^^^^
-Once a registered member, you can `login here <https://linkedearth.2i2c.cloud/>`_.
+Once a registered member, you can `login here`_.
 Upon login, you will be asked to choose between 4 server options. The "Small" server (5GB RAM, 2 CPU) option should be sufficient for most applications, though you may need the larger ones when processing large model output.
 We recommend using as few resources as you need to make room for other users - currently 10 simultaneous users are supported. Please start small and only ramp up if needed.
 Be warned that it takes a few minutes to build the server ; this is entirely normal, but you should not expect instant access upon startup.
@@ -57,23 +59,25 @@ The server will automatically shut down after an inactive period of ~ 1 day; if 
 
 Data privacy & sharing
 ^^^^^^^^^^^^^^^^^^^^^^
-Your work on the hub cannot seen by other users, though it is accessible to `LinkedEarth administrators <http://linked.earth/index.html#core-team>`_ to ensure proper use and help when needed. All users have a folder called *shared* in their home directory. This is a read-only directory - you cannot write to it, but you can access and read from it. If you want to tinker with the files in this directory, you need to copy them to your own directory first. For more details see the `hub documentation <https://docs.2i2c.org/en/latest/>`_.
+Your work on the hub cannot seen by other users, though it is accessible to :ref:`LinkedEarth administrators<core-team>` to ensure proper use and help when needed. All users have a folder called *shared* in their home directory. This is a read-only directory - you cannot write to it, but you can access and read from it. If you want to tinker with the files in this directory, you need to copy them to your own directory first. For more details see the `hub documentation`_.
 
 Tutorials
 ^^^^^^^^^
 There are various ways to get acquainted with Python in general and Pyleoclim in particular:
 
-- Self-paced tutorials to learn `basic Python <http://linked.earth/ec_workshops_py/>`_, including the scientific Python ecosystem (NumPy, SciPy, Jupyter, Matplotlib, Pandas, Cartopy, GitHub).
+- Self-paced tutorials to learn `basic Python`_, including the scientific Python ecosystem (NumPy, SciPy, Jupyter, Matplotlib, Pandas, Cartopy, GitHub).
 
-- `Pythia Foundations <https://foundations.projectpythia.org/>`_, a community learning resource for Python-based computing in the geosciences.
+- `Pythia Foundations`_, a community learning resource for Python-based computing in the geosciences.
 
-- Self-paced `tutorials <http://linked.earth/PyleoTutorials>`_ to learn how to wield `Pyleoclim <https://pyleoclim-util.readthedocs.io/>`_.
+- Self-paced `PyleoTutorials`_ to learn how to wield `Pyleoclim`_.
 
-- `PaleoBooks <https://github.com/LinkedEarth/PaleoBooks>`_, a collection of Jupyter notebooks illustrating the scientific use of software libraries maintained by LinkedEarth. This collection will see rapid growth in 2022/2023, and will be designed for hub users. If you want the LinkedEarth team to develop notebooks that mimic the sort of analysis you might want to do, please request them on `Discourse <https://discourse.linked.earth/c/science>` or `open a GitHub issue <https://github.com/LinkedEarth/PaleoBooks/issues/new/choose>`_. No one is here to scoop your ideas; we will just try to provide solutions to your problems to the best of our ability and in maximally re-usable ways.
+- If you are a LiPD user, you can use `pyLiPD`_ to open and manipulate the files. You can also try our self-paced `pyLiPD tutorials`_.
+
+- `PaleoBooks`_, a collection of Jupyter notebooks illustrating the scientific use of software libraries maintained by LinkedEarth. This collection will see rapid growth in 2022/2023, and will be designed for hub users. If you want the LinkedEarth team to develop notebooks that mimic the sort of analysis you might want to do, please request them on our `Discourse forum`_ or `open a GitHub issue`_. No one is here to scoop your ideas; we will just try to provide solutions to your problems to the best of our ability and in maximally re-usable ways.
 
 For details on further training opportunities and general ways to get help, please see the :ref:`community` page.
 
 Support
 ^^^^^^^
 
-This research hub is supported by NSF grant `ICER 2126510 <https://nsf.gov/awardsearch/showAward?AWD_ID=2126510&HistoricalAwards=false>`_ from the `EarthCube program <https://www.earthcube.org>`_.
+This research hub is supported by NSF grant `ICER 2126510`_ from the `EarthCube program`_.

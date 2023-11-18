@@ -1,15 +1,21 @@
+.. include:: links.rst
+
+.. _contact:
+
 Contact LinkedEarth
 ===================
 
 **GITHUB**
++++++++++++
 
 All technical discussion should go through GitHub. Please use project-specific GitHub repository.
 
-**OTHER MEDIA**
+**OTHER CHANNELS**
++++++++++++++++++++
 
 LinkedEarth's online presence also includes:
 
-* Medium Blog: `https://linkedearth.medium.com/about <https://linkedearth.medium.com/about>`_
-* Twitter: `https://twitter.com/linked_earth <https://twitter.com/linked_earth>`_
+* Medium Blog: `linkedearth.medium.com`_
+* Twitter: `twitter.com/linked_earth`_
 
-If you wish to contact LinkedEarth via a non-public channel, email us at `linkedearth@gmail.com <mailto:linkedearth@gmail.com>`_.
+If you wish to contact LinkedEarth via a non-public channel, email us at `linkedearth@gmail.com`_.

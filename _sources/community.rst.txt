@@ -1,33 +1,35 @@
+.. include:: links.rst
+
 .. _community:
 
 Community
-=========
+==========
 
 Updates
 ^^^^^^^
-The `CyberPaleo blog <https://medium.com/cyberpaleo>`_  disseminates updates from the LinkedEarth team and affiliates, as well as guest posts from various partners.
+The `CyberPaleo blog`_  disseminates updates from the LinkedEarth team and affiliates, as well as guest posts from various partners.
 
 Discussion
 ^^^^^^^^^^
-- Discourse: Announcements and general discussion is done through `this forum <https://discourse.linked.earth/>`_. This is also a great place to ask for help with our tools (e.g. Pyleoclim, GeoChronR, LiPD). This is the best place to start getting involved with LinkedEarth.
-- SLACK:  Our Slack workspace is mainly used for hackathons. `Email us <mailto:linkedearth@gmail.com>`_ for an invitation.
-- GITHUB: All technical discussion should go through GitHub. Please do so in the "issues" section of project-specific GitHub repositories (e.g. `Pyleoclim repository <https://github.com/LinkedEarth/Pyleoclim_util>`_). All of our packages follow the `Open Development <https://en.wikipedia.org/wiki/Open-source_software_development>`_ model. See each repository for guidelines.
+- Discourse: Announcements and general discussion is done through `this forum`_. This is also a great place to ask for help with our tools (e.g. Pyleoclim, GeoChronR, LiPD). This is the best place to start getting involved with LinkedEarth.
+- SLACK:  Our Slack workspace is mainly used for hackathons. `Email us`_ for an invitation.
+- GITHUB: All technical discussion should go through GitHub. Please do so in the "issues" section of project-specific GitHub repositories (e.g. `Pyleoclim repository`_). All of our packages follow the `Open Development`_ model. See each repository for guidelines.
 
 Training
 ^^^^^^^^
 
 We offer training opportunities through the following modalities:
 
-- Self-paced tutorials to learn `basic Python <http://linked.earth/ec_workshops_py/>`_
+- Self-paced tutorials to learn `basic Python`_
 
-- `Time-Uncertain Data Analysis in R <http://linked.earth/time-uncertain-data-analysis-in-R/>`_, a suite of self-paced tutorials in Rmarkdown.
+- `Time-Uncertain Data Analysis in R`_, a suite of self-paced tutorials in Rmarkdown.
 
-- `Pyleoclim Tutorials <http://linked.earth/PyleoTutorials>`_, a suite of self-paced tutorials as Jupyter Notebooks.
+- `PyleoTutorials`_, a suite of self-paced tutorials as Jupyter Notebooks.
 
 - Video tutorials through our `YouTube channel <https://www.youtube.com/channel/UCo7yzNTM__4g5H-xyWV5KbA>`_ :
 
-  * `Pyleoclim <https://www.youtube.com/watch?v=LJaQBFMK2-Q&list=PL93NbaRnKAuF4WpIQf-4y_U4lo-GqcrcW>`_.
-  * `LiPD <https://www.youtube.com/watch?v=6yr-qR0aNCo&list=PL93NbaRnKAuGhl9EcH4fy6H0zcEuqacJO>`_.
+  * `Pyleoclim Video <https://www.youtube.com/watch?v=LJaQBFMK2-Q&list=PL93NbaRnKAuF4WpIQf-4y_U4lo-GqcrcW>`_.
+  * `LiPD Video <https://www.youtube.com/watch?v=6yr-qR0aNCo&list=PL93NbaRnKAuGhl9EcH4fy6H0zcEuqacJO>`_.
 
 .. raw:: html
 
@@ -35,13 +37,16 @@ We offer training opportunities through the following modalities:
 
 - Hackathons:
 
-  * `paleoHack <https://linkedearth.github.io/paleoHackathon/>`_, dedicated to Python tools, particularly `Pyleoclim <https://pyleoclim-util.readthedocs.io/en/master/>`_:
+  * `paleoHack`_, dedicated to Python tools, particularly `Pyleoclim`_:
 
-    * Previous hackathon materials (2021, 2022) are available through `this GitHub repository <https://github.com/LinkedEarth/paleoHackathon>`_. The notebooks are released through myBinder and hosted on its own JupyterHub. `Email us <mailto:linkedearth@gmail.com>`_ for a Hub account.
-    * We will be hosting our next hackathon on Catalina Island in Summer 2023 (COVID-dependent). See `here <https://linkedearth.github.io/paleoHackathon/>`_ or `Discourse <https://discourse.linked.earth/>`_ for details.
+    * Previous hackathon materials (2021, 2022, 2023) are available through our `paleoHackathon GitHub repository`_. The notebooks are released through myBinder and hosted on its own JupyterHub. `Email us`_ for a Hub account.
+    * Future hackathons are TBD. Keep an eye on our `Twitter <https://twitter.com/Linked_Earth>`_ and `Discourse <https://discourse.linked.earth/>`_ for updates.
+
+  * FROGS: TBD
 
   * GeoChronR workshops (2016, 2017, 2021, 2022)
 
-PAGES
-^^^^^
-`Past Global Changes (PAGES) <http://www.pastglobalchanges.org>`_ has supported and advertised LinkedEarth activities since the beginning. Several existing PAGES projects have adopted LinkedEarth tools, including `PAGES 2k <http://www.pastglobalchanges.org/science/wg/acme/intro?id=221>`_, `Iso 2k <http://www.pastglobalchanges.org/science/wg/2k-network/projects/iso2k/intro>`_ and `CRIAS <http://www.pastglobalchanges.org/science/wg/crias/intro>`_.
+Compilation Working Groups
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The `LiPDverse`_ has information on a number of paleo compilation projects have that adopted LinkedEarth tools.

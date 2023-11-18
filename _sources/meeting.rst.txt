@@ -1,5 +1,6 @@
-.. _meeting:
+.. include:: links.rst
 
+.. _meeting:
 
 
 Meeting Schedule and Notes
@@ -8,14 +9,14 @@ Meeting Schedule and Notes
 Community Meeting
 ^^^^^^^^^^^^^^^^^
 
-LinkedEarth holds biweekly community meetings on Mondays 9am Pacific. See our `calendar <http://linked.earth/calendar.html>`_ for details.
+LinkedEarth holds biweekly community meetings on Thursdays 9am Pacific. See the `LinkedEarth calendar`_ for details.
 
 Development Meeting
 ^^^^^^^^^^^^^^^^^^^
 
-Development meetings for `Pyleoclim <http://linked.earth/analysis.html>`_ are help biweekly on Tuesdays 1pm Pacific. See our `calendar <http://linked.earth/calendar.html>`_ for details.
+Development meetings for `Pyleoclim`_ are help biweekly on Fridays 1pm Pacific. See the `LinkedEarth calendar`_ for details.
 
 Notes
 ^^^^^
 
-All meeting notes are `public <https://docs.google.com/document/d/1WxfYztmehBRCjMRWA8VMrWxe_4by2XPa3W3vCeF7CSo/edit?usp=sharing>`_.
+All `meeting notes`_ are public.

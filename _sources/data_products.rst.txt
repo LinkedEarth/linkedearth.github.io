@@ -1,3 +1,5 @@
+.. include:: links.rst
+
 .. _data_products:
 
 Data Products
@@ -6,23 +8,20 @@ Data Products
 Climate Reconstructions
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-The LinkedEarth team has been involved in the `Last Millennium Reanalysis (LMR) <https://cpo.noaa.gov/News/News-Article/ArtMID/6226/ArticleID/1807/Last-Millennium-Reanalysis-now-at-NOAAs-National-Centers-for-Environmental-Information-marking-major-milestone>`_. Version 2 of the dataset is `available from NOAA <https://www.ncdc.noaa.gov/paleo-search/study/27850>`_.
+The LinkedEarth team has been involved in the `Last Millennium Reanalysis`_. Version 2 of the dataset is `available from NOAA`_.
 
-The LinkedEarth team has also been funded through a `NSF Geoinformatics grant <https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948746&HistoricalAwards=false>`_ to develop a `Paleoclimate Reconstruction Storehouse (PReSto) <http://paleopresto.github.io/>`_. The goal is to provide broad access to paleoclimate reconstructions on the internet.
+The LinkedEarth team has also been funded through a `NSF Geoinformatics grant`_ to develop a `Paleoclimate Reconstruction Storehouse (PReSto)`_. The goal is to provide broad access to paleoclimate reconstructions on the internet.
 
 Partnership
 ^^^^^^^^^^^
 
 The team has been involved in various projects with PAGES:
 
-* `Pages2k <http://pastglobalchanges.org/science/wg/2k-network/intro>`_
-
-*  `Iso2k <http://pastglobalchanges.org/science/wg/2k-network/projects/iso2k/intro>`_
-
-* `CoralHydro2k <https://pastglobalchanges.org/science/wg/2k-network/projects/coral-hydro/intro>`_
-
+* `Pages2k`_
+* `Iso2k`_
+* `CoralHydro2k`_
 * `Temp12k <https://www.nature.com/articles/s41597-020-0445-3>`_.
 
-As well as with the German-funded `PALMOD <https://www.palmod.de>`_ project.
+As well as with the German-funded `PALMOD`_ project.
 
-The data for these projects are available in LiPD format `through the LiPDverse <https://lipdverse.org>`_.
+The data for these projects are available in LiPD format through the `LiPDverse`_.

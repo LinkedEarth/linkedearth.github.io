@@ -8,6 +8,8 @@
   :align: center
   :alt: LinkedEarth Logo. Credit: Deborah Khider
 
+.. include:: links.rst
+
 
 A community for the paleosciences
 =================================
@@ -21,11 +23,12 @@ LinkedEarth originated in 2016 through a grant from the National Science Foundat
 
 There is no formal registration for LinkedEarth. We hope that you will join this growing community because the tools we provide become part of your scientific workflow.
 
-This website contains general information about LinkedEarth. For news and updates, please follow our `Medium blog <https://linkedearth.medium.com/about>`_ and our `Twitter feed <https://twitter.com/linked_earth>`_.
+This website contains general information about LinkedEarth. For news and updates, please follow our `Medium blog <https://medium.com/cyberpaleo>`_ and our `Twitter feed <https://twitter.com/linked_earth>`_.
 
 People
 """"""
 
+.. _core-team:
 
 Core Team
 ^^^^^^^^^
@@ -75,17 +78,18 @@ Contributors
 * `Daniel Garijo <https://dgarijo.com>`_, Ontology Engineering Group, Universidad Politécnica de Madrid
 * `Yolanda Gil <https://www.isi.edu/~gil/>`_, Information Sciences Institute and Department of Computer Sciences, University of Southern California
 * `Varun Ratnakar <https://uk.linkedin.com/in/varun-ratnakar-2b537a78>`_, Karya Limited
+* `David Edge <https://directory.nau.edu/departments?id=10200&person=dce25&src=cefns>`_, School of Earth and Sustainability, Northern Arizona University
 
 Getting involved
 ^^^^^^^^^^^^^^^^
 
 To engage with the community, there are three main ways:
 
-* Browse our `GitHub repos <https://oeg-upm.github.io/soca/example/LinkedEarth/index.html>`_
+* Browse our `GitHub repos`_
 
-* Visit our `Discourse forum <https://discourse.linked.earth>`_
+* Visit our `Discourse forum`_
 
-* `Email us <mailto:linkedearth@gmail.com>`_ to join an Ask Me Anything (AMA) session
+* `Email us`_ to join an Ask Me Anything (AMA) session
 
 Activities
 """"""""""
@@ -101,8 +105,6 @@ These four umbrellas gather more specific activities,  as seen on the diagram be
 
 To stay up-to-date with LinkedEarth activities, subscribe to our :ref:`calendar <calendar>`.
 
-<br>
-<br>
 
 .. image:: figures/LinkedEarth_diagram_current.png
     :alt: LinkedEarth Activities. Credit: Deborah Khider
