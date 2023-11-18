@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Analysis &#8212; LinkedEarth August 2022 documentation</title>
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/bootstrap-sphinx.css" />
@@ -14,7 +13,9 @@
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="_static/doctools.js"></script>
+    <script src="_static/sphinx_highlight.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Calendar" href="calendar.html" />
@@ -23,10 +24,10 @@
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
 <meta name="apple-mobile-web-app-capable" content="yes">
-<script type="text/javascript" src="_static/js/jquery-1.12.4.min.js "></script>
-<script type="text/javascript" src="_static/js/jquery-fix.js "></script>
-<script type="text/javascript" src="_static/bootstrap-3.4.1/js/bootstrap.min.js "></script>
-<script type="text/javascript" src="_static/bootstrap-sphinx.js "></script>
+<script type="text/javascript" src="_static/js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="_static/js/jquery-fix.js"></script>
+<script type="text/javascript" src="_static/bootstrap-3.4.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
 
   </head><body>
 
@@ -115,29 +116,37 @@
   <div class="row">
     <div class="body col-md-12 content" role="main">
       
-  <section id="analysis">
-<span id="id1"></span><h1>Analysis<a class="headerlink" href="#analysis" title="Permalink to this headline">¶</a></h1>
-<section id="open-source-software">
-<h2>Open source software<a class="headerlink" href="#open-source-software" title="Permalink to this headline">¶</a></h2>
+  <div class="section" id="analysis">
+<span id="id1"></span><h1>Analysis<a class="headerlink" href="#analysis" title="Permalink to this heading">¶</a></h1>
+<div class="section" id="open-source-software">
+<h2>Open source software<a class="headerlink" href="#open-source-software" title="Permalink to this heading">¶</a></h2>
 <p>The LinkedEarth team currently maintain the following open source packages:</p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://nickmckay.github.io/LiPD-utilities/">LiPD utilities</a>: source code is available in Python, R, and Matlab. The utilities allow to open, manipulate, and write files using the <cite>Linked Paleo Data (LiPD) &lt;https://lipd.net&gt;</cite> format.</p></li>
+<li><dl class="simple">
+<dt>Utilities that enable users to open, manipulate, and write files using the <a class="reference external" href="https://lipd.net">Linked Paleo Data (LiPD)</a> format.</dt><dd><ul>
+<li><p>For R: <a class="reference external" href="https://nickmckay.github.io/lipdR/">lipdR</a></p></li>
+<li><p>For Python: <a class="reference external" href="https://pylipd.readthedocs.io/en/latest/">PyLiPD</a></p></li>
+</ul>
+</dd>
+</dl>
+</li>
 <li><p><a class="reference external" href="https://nickmckay.github.io/GeoChronR/">GeoChronR</a>: an integrated framework in R that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with  a number of commonly-used techniques, and visualize their results in an intuitive way.</p></li>
-<li><p><a class="reference external" href="https://pyleoclim-util.readthedocs.io/en/master/">Pyleoclim</a>: a Python package designed for the analysis of paleoclimate data. Pyleoclim leverages various data science libraries (numpy, pandas, scikit-learn) for time series analysis, as well as and Matplotlib and Cartopy for the creation of publication-quality figures. The package is designed around object-oriented Series, which can be directly manipulated for plotting, spectral and wavelet analysis, and other time series-appropriate operations.</p></li>
+<li><p><a class="reference external" href="https://pyleoclim-util.readthedocs.io/en/latest/">Pyleoclim</a>: a Python package designed for the analysis of paleoclimate data. Pyleoclim leverages various data science libraries (numpy, pandas, scikit-learn) for time series analysis, as well as and Matplotlib and Cartopy for the creation of publication-quality figures. The package is designed around object-oriented Series, which can be directly manipulated for plotting, spectral and wavelet analysis, and other time series-appropriate operations.</p></li>
 </ul>
 <p>Both GeoChronR and Pyleoclim natively “speaks” the language of LiPD.</p>
-</section>
-<section id="computational-narratives">
-<h2>Computational Narratives<a class="headerlink" href="#computational-narratives" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="computational-narratives">
+<h2>Computational Narratives<a class="headerlink" href="#computational-narratives" title="Permalink to this heading">¶</a></h2>
 <ul class="simple">
-<li><p>We have a <a class="reference external" href="https://github.com/LinkedEarth/LiPDbooks">library of Jupyter Notebooks</a> illustrating the use of Pyleoclim in paleoclimate research.</p></li>
+<li><p>We have a <a class="reference external" href="http://linked.earth/PyleoTutorials/">library of Jupyter Notebooks</a> illustrating the use of Pyleoclim in paleoclimate research.</p></li>
+<li><p>We maintain a a compendium of digital resources called <a class="reference external" href="http://linked.earth/PaleoBooks/">PaleoBooks</a>  to bridge the gap between paleoclimate observations and models.</p></li>
 <li><p>R vignettes are available from the <a class="reference external" href="https://github.com/nickmckay/GeoChronR">GeoChronR Github repository</a>.</p></li>
 <li><p><a class="reference external" href="https://knowledgecaptureanddiscovery.github.io/autoTS/">autoTS</a>: an automated system for time series analysis.</p></li>
-<li><p>ClimateDISK: a framework to test and revise hypotheses based on automatic analysis of scientific data as it becomes available over time.</p></li>
+<li><p><a class="reference external" href="https://climate.disk.isi.edu">ClimateDISK</a>: a framework to test and revise hypotheses based on automatic analysis of scientific data as it becomes available over time.</p></li>
 </ul>
 <p>See our <a class="reference internal" href="gallery.html#gallery"><span class="std std-ref">Gallery</span></a> for examples of fully executable notebooks.</p>
-</section>
-</section>
+</div>
+</div>
 
 
     </div>
@@ -159,7 +168,7 @@
     </p>
     <p>
         &copy; Copyright 2022, LinkedEarth.<br/>
-      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.2.0.<br/>
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 5.3.0.<br/>
     </p>
   </div>
 </footer>

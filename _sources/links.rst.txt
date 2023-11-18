@@ -1,0 +1,87 @@
+.. _NSF Geoinformatics program: https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503447
+.. _NSF EarthCube program: https://earthcube.org/
+.. _EarthCube program: https://www.earthcube.org
+.. _JP Morgan AI Research: https://www.jpmorgan.com/insights/technology/artificial-intelligence
+
+.. _PaleoCube award: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126510&HistoricalAwards=false
+.. _PaleoCube overview: https://docs.google.com/presentation/d/1DzCedM9nKnbeS5-TCb-1obN3C23rbeQlOnhr0-1w_-8/edit?usp=sharing>
+
+.. _PReSto: https://paleopresto.github.io
+.. _Paleoclimate Reconstruction Storehouse (PReSto): https://paleopresto.github.io
+
+.. _NSF Geoinformatics grant: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1948746&HistoricalAwards=false
+
+.. _LinkedEarth wiki: https://wiki.linked.earth/Main_Page
+.. _GitHub repos: https://oeg-upm.github.io/soca/example/LinkedEarth/index.html
+.. _meeting notes: https://docs.google.com/document/d/1WxfYztmehBRCjMRWA8VMrWxe_4by2XPa3W3vCeF7CSo/edit?usp=sharing
+.. _LinkedEarth calendar: http://linked.earth/calendar.html
+.. _this forum: https://discourse.linked.earth/
+.. _Discourse forum: https://discourse.linked.earth
+
+.. _Last Millennium Reanalysis: https://cpo.noaa.gov/Last-Millennium-Reanalysis-now-at-NOAAs-National-Centers-for-Environmental-Information-marking-major-milestone
+.. _available from NOAA: https://www.ncdc.noaa.gov/paleo-search/study/27850
+.. _PaCTS standard: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019PA003632
+.. _PaST Thesaurus: https://www.ncdc.noaa.gov/data-access/paleoclimatology-data/past-thesaurus
+.. _ontology: http://linked.earth/ontology/#
+
+.. _LiPD playground: https://lipd.net/playground
+.. _LiPD: https://lipd.net
+.. _Linked Paleo Data (LiPD): https://lipd.net
+.. _LiPDverse: https://lipdverse.org
+.. _PyLiPD: https://pylipd.readthedocs.io/en/latest/
+.. _pyLiPD tutorials: http://linked.earth/pylipdTutorials/intro.html
+.. _lipdR: https://nickmckay.github.io/lipdR/
+.. _recommender system (PaleoRec): https://paleorec.readthedocs.io/en/latest/index.html
+.. _graph interface: https://linkedearth.graphdb.mint.isi.edu
+
+.. _PALMOD: https://www.palmod.de
+.. _Pages2k: http://pastglobalchanges.org/science/wg/2k-network/intro
+.. _Iso2k: http://pastglobalchanges.org/science/wg/2k-network/projects/iso2k/intro
+.. _CoralHydro2k: https://pastglobalchanges.org/science/wg/2k-network/projects/coral-hydro/intro
+.. _Temp12k: https://www.nature.com/articles/s41597-020-0445-3
+
+.. _Pyleoclim: https://pyleoclim-util.readthedocs.io/en/latest/
+.. _Pyleoclim repository: https://github.com/LinkedEarth/Pyleoclim_util
+.. _PyleoTutorials: http://linked.earth/PyleoTutorials
+.. _library of Jupyter Notebooks: http://linked.earth/PyleoTutorials/
+
+.. _GeoChronR: https://nickmckay.github.io/GeoChronR/
+.. _GeoChronR Github repository: https://github.com/nickmckay/GeoChronR
+
+.. _ClimateDISK: https://climate.disk.isi.edu
+.. _PaleoTS: http://linked.earth/paleoTS/index.html
+.. _autoTS: https://knowledgecaptureanddiscovery.github.io/autoTS/
+
+.. _PaleoBooks: http://linked.earth/PaleoBooks/
+
+.. _GCAL: https://calendar.google.com/calendar/embed?src=linkedearth%40gmail.com&ctz=America%2FLos_Angeles
+.. _ICAL: https://calendar.google.com/calendar/ical/linkedearth%40gmail.com/public/basic.ics
+
+.. _CyberPaleo blog: https://medium.com/cyberpaleo
+
+.. _Email us: mailto:linkedearth@gmail.com
+.. _linkedearth@gmail.com: mailto:linkedearth@gmail.com
+.. _Open Development: https://en.wikipedia.org/wiki/Open-source_software_development
+.. _linkedearth.medium.com: https://linkedearth.medium.com/about
+.. _twitter.com/linked_earth: https://twitter.com/linked_earth
+
+.. _basic Python: http://linked.earth/ec_workshops_py/
+.. _Pythia Foundations: https://foundations.projectpythia.org/
+.. _Time-Uncertain Data Analysis in R: http://linked.earth/time-uncertain-data-analysis-in-R/
+
+.. _paleoHack: https://linkedearth.github.io/paleoHackathon/
+.. _paleoHackathon GitHub repository: https://github.com/LinkedEarth/paleoHackathon
+
+.. _AGU Townhall Fall 2021: https://tinyurl.com/5469hjsz
+
+.. _LinkedEarth JupyterHub: https://linkedearth.2i2c.cloud/
+.. _JupyterHub: https://jupyter.org/hub
+.. _paleoclimate data-model comparisons: https://medium.com/cyberpaleo/announcing-the-next-linkedearth-chapter-paleocube-790778b6ffb0
+.. _Analysis-Ready, Cloud-Optimized: https://doi.org/10.3389/fclim.2021.782909
+.. _code of conduct: https://github.com/LinkedEarth/governance/blob/main/code-of-conduct.md
+.. _login here: https://linkedearth.2i2c.cloud/
+.. _this form: https://forms.gle/sz4GKEoPAwUoXjfZ7
+.. _hub documentation: https://docs.2i2c.org/en/latest/
+.. _open a GitHub issue: https://github.com/LinkedEarth/PaleoBooks/issues/new/choose
+
+.. _ICER 2126510: https://nsf.gov/awardsearch/showAward?AWD_ID=2126510&HistoricalAwards=false

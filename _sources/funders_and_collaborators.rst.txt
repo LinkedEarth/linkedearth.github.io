@@ -1,3 +1,5 @@
+.. include:: links.rst
+
 .. _funders:
 
 Funders and Collaborators
@@ -6,25 +8,27 @@ Funders and Collaborators
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-LinkedEarth has originated from the `NSF EarthCube program <https://earthcube.org/>`_. This award supported the creation of the :ref:`PaCTS standard <data_stewards>`, the `LinkedEarth wiki <https://wiki.linked.earth/Main_Page>`_, and :ref:`Pyleoclim <analysis>`.
+LinkedEarth has originated from the `NSF EarthCube program`_. This award supported the creation of the `PaCTS standard`_, the `LinkedEarth wiki`_, and `Pyleoclim`_.
 
-:ref:`GeoChronR <analysis>` was supported by a grant for the `NSF Geoinformatics program <https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503447>`_.
+`GeoChronR`_ was supported by a grant for the `NSF Geoinformatics program`_.
 
-:ref:`PReSto <data_products>` is funded under the `NSF Geoinformatics program <https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503447>`_.
+`PReSto`_ is funded under the `NSF Geoinformatics program`_.
 
-The `NSF EarthCube program <https://earthcube.org/>`_ is currently supporting most of the :ref:`analysis` and :ref:`community` activities under the `PaleoCube award <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126510&HistoricalAwards=false>`_.
+The `NSF EarthCube program`_ is currently supporting most of the :ref:`analysis` and :ref:`community` activities under the `PaleoCube award`_.
 
 NOAA
 ^^^^
 
-:ref:`The Last Millennium Reanalysis <data_products>` was developed under a NOAA grant.
+The `Last Millennium Reanalysis`_ was developed under a NOAA grant.
 
 Industry
 ^^^^^^^^
 
-:ref:`Pyleoclim <analysis>` was further supported by a grant from `JP Morgan AI Research <https://www.jpmorgan.com/insights/technology/artificial-intelligence>`_, supporting the development of :ref:`autoTS <analysis>`.
+`Pyleoclim`_ was further supported by a grant from `JP Morgan AI Research`_, supporting the development of `PaleoTS`_.
 
 Office of Naval Research
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-:ref:`ClimateDISK <analysis>` is supported by a grant from the Office of Naval Research to Gil.
+`ClimateDISK`_ is supported by a grant from the Office of Naval Research to Gil.
+
+
