@@ -9,12 +9,12 @@ Meeting Schedule and Notes
 Community Meeting
 ^^^^^^^^^^^^^^^^^
 
-LinkedEarth holds biweekly community meetings on Thursdays 9am Pacific. See the `LinkedEarth calendar`_ for details.
+LinkedEarth holds biweekly community meetings on Tuesdays at 2:30pm Pacific. See the `LinkedEarth calendar`_ for details.
 
 Development Meeting
 ^^^^^^^^^^^^^^^^^^^
 
-Development meetings for `Pyleoclim`_ are help biweekly on Fridays 1pm Pacific. See the `LinkedEarth calendar`_ for details.
+Development meetings for `Pyleoclim`_ are help biweekly on Fridays 2pm Pacific. See the `LinkedEarth calendar`_ for details.
 
 Notes
 ^^^^^

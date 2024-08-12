@@ -44,7 +44,7 @@ As of 2021, the core team is composed of:
     <a target="_blank" href="deborah.jpg">
       <img src="_static/deborah.jpg" alt="Deborah Khider">
     </a>
-    <span class="desc"><p><a href="https://earth.usc.edu/~khider/">Deborah Khider</a></p> <p>Information Sciences Institute</p> <p>University of Southern California</p></span>
+    <span class="desc"><p><a href="https://www.isi.edu/directory/dkhider/">Deborah Khider</a></p> <p>Information Sciences Institute</p> <p>University of Southern California</p></span>
   </div>
 
 
@@ -70,8 +70,8 @@ As of 2021, the core team is composed of:
 Contributors
 ^^^^^^^^^^^^
 
-* `Feng Zhu <https://earth.usc.edu/~fengzhu/>`_, School of Atmospheric Sciences, Nanjing University of Information Science & Technology
-* `Alexander James <https://www.linkedin.com/in/alexander-james-327464a8/>`_, Department of Earth Sciences, University of Southern California
+* `Feng Zhu <https://staff.ucar.edu/users/fengzhu>`_, NCAR
+* `Alexander James <https://alexkjames.github.io>`_, Department of Earth Sciences, University of Southern California
 * `Jordan Landers <https://scholar.google.com/citations?user=1PVSSxwAAAAJ&hl=en&authuser=1>`_, Department of Earth Sciences, University of Southern California
 * `Cody Rouston <https://scholar.google.com/citations?user=TQAQTl0AAAAJ&hl=en>`_, School of Earth and Sustainability, Northern Arizona University
 * `Michael Erb <https://www.michaelerb.org>`_, School of Earth and Sustainability, Northern Arizona University

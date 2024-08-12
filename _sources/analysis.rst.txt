@@ -13,16 +13,15 @@ The LinkedEarth team currently maintain the following open source packages:
 * Utilities that enable users to open, manipulate, and write files using the `Linked Paleo Data (LiPD)`_ format.
     * For R: `lipdR`_
     * For Python: `PyLiPD`_
-* `GeoChronR`_: an integrated framework in R that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with  a number of commonly-used techniques, and visualize their results in an intuitive way.
-* `Pyleoclim`_: a Python package designed for the analysis of paleoclimate data. Pyleoclim leverages various data science libraries (numpy, pandas, scikit-learn) for time series analysis, as well as and Matplotlib and Cartopy for the creation of publication-quality figures. The package is designed around object-oriented Series, which can be directly manipulated for plotting, spectral and wavelet analysis, and other time series-appropriate operations.
+* `GeoChronR`_: an integrated framework in R that allows scientists to generate state-of-the-art age models for their records, create time-uncertain ensembles of their data, analyze those ensembles with  a number of commonly-used techniques, and visualize their results in an intuitive way.GeoChronR is meant to work directly with files formatted in the LiPD format. 
+* `Pyleoclim`_: a Python package designed for the analysis of paleoclimate data. Pyleoclim leverages various data science libraries (numpy, pandas, scikit-learn) for time series analysis, as well as and Matplotlib and Cartopy for the creation of publication-quality figures. The package is designed around object-oriented Series, which can be directly manipulated for plotting, spectral and wavelet analysis, and other time series-appropriate operations. Pyleoclim is meant to work with data in numpy arrays or Pandas DataFrame. The `PyLiPD`_ utilities can convert LiPD files to Pandas Dataframe for direct integration. 
 
-Both GeoChronR and Pyleoclim natively "speaks" the language of LiPD.
 
 Computational Narratives
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 * We have a `library of Jupyter Notebooks`_ illustrating the use of Pyleoclim in paleoclimate research.
-* We maintain a a compendium of digital resources called `PaleoBooks`_  to bridge the gap between paleoclimate observations and models.
+* We maintain a a compendium of digital resources called `PaleoBooks`_  to bridge the gap between tutorials and using software in practice. 
 * R vignettes are available from the `GeoChronR Github repository`_.
 * `autoTS`_: an automated system for time series analysis.
 * `ClimateDISK`_: a framework to test and revise hypotheses based on automatic analysis of scientific data as it becomes available over time.

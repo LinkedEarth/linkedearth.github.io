@@ -24,4 +24,4 @@ The team has been involved in various projects with PAGES:
 
 As well as with the German-funded `PALMOD`_ project.
 
-The data for these projects are available in LiPD format through the `LiPDverse`_.
+The data for these projects are available in LiPD format through the `LiPDverse`_ and through a `graph interface`_.

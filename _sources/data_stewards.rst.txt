@@ -19,12 +19,12 @@ A data standard is actually comprised of three components:
 LiPD playground
 ^^^^^^^^^^^^^^^
 
-The `LiPD playground`_ is a web interface that allows to easily create LiPD files. The interface includes both a `graph interface`_ a `recommender system (PaleoRec)`_ that assists in metadata information. PaleoRec uses deep learning for recommendation. Technical details are summarized in `this paper <https://www.cambridge.org/core/journals/environmental-data-science/article/paleorec-a-sequential-recommender-system-for-the-annotation-of-paleoclimate-datasets/30B71DFD01C99A3773B4CEAAB2497B2D>`_.
+The `LiPD playground`_ is a web interface that allows to easily create LiPD files. The interface includes a `recommender system (PaleoRec)`_ that assists in metadata information. PaleoRec uses deep learning for recommendation. Technical details are summarized in `this paper <https://www.cambridge.org/core/journals/environmental-data-science/article/paleorec-a-sequential-recommender-system-for-the-annotation-of-paleoclimate-datasets/30B71DFD01C99A3773B4CEAAB2497B2D>`_.
 
 LiPDverse
 ^^^^^^^^^
 
-The `LiPDverse`_ stores datasets in the LiPD format. Most of these files originated in collaboration with PAGES projects and the metadata has been fully vetted by the community.
+The `LiPDverse`_ stores datasets in the LiPD format, which are also available through a `graph interface`_. Most of these files originated in collaboration with PAGES projects and the metadata has been fully vetted by the community.
 
 The LiPDverse allows for simple queries and visualization of LiPD-formatted datasets.
 

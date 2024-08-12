@@ -12,15 +12,13 @@ The `CyberPaleo blog`_  disseminates updates from the LinkedEarth team and affil
 Discussion
 ^^^^^^^^^^
 - Discourse: Announcements and general discussion is done through `this forum`_. This is also a great place to ask for help with our tools (e.g. Pyleoclim, GeoChronR, LiPD). This is the best place to start getting involved with LinkedEarth.
-- SLACK:  Our Slack workspace is mainly used for hackathons. `Email us`_ for an invitation.
-- GITHUB: All technical discussion should go through GitHub. Please do so in the "issues" section of project-specific GitHub repositories (e.g. `Pyleoclim repository`_). All of our packages follow the `Open Development`_ model. See each repository for guidelines.
+- Slack:  Our Slack workspace is mainly used for hackathons. `Email us`_ for an invitation.
+- GitHub: All technical discussion should go through GitHub. Please do so in the "issues" section of project-specific GitHub repositories (e.g. `Pyleoclim repository`_). All of our packages follow the `Open Development`_ model. See each repository for guidelines.
 
 Training
 ^^^^^^^^
 
-We offer training opportunities through the following modalities:
-
-- Self-paced tutorials to learn `basic Python`_
+We offer synchronouns and asynchronous training opportunities through the following modalities:
 
 - `Time-Uncertain Data Analysis in R`_, a suite of self-paced tutorials in Rmarkdown.
 
@@ -42,11 +40,11 @@ We offer training opportunities through the following modalities:
     * Previous hackathon materials (2021, 2022, 2023) are available through our `paleoHackathon GitHub repository`_. The notebooks are released through myBinder and hosted on its own JupyterHub. `Email us`_ for a Hub account.
     * Future hackathons are TBD. Keep an eye on our `Twitter <https://twitter.com/Linked_Earth>`_ and `Discourse <https://discourse.linked.earth/>`_ for updates.
 
-  * FROGS: TBD
+  * FROGS: Facilitating Reproducible and Open Geoscience Research. `FROGS`_ aims to teach the next generation of earth scientists how to openly share all artifacts of their research (data, software, and workflows) to ensure that their work is reproducible. We offer in-person and virtual hackathons (2024-2025). The LeapFROG platform supports asynchrouns learning of `timeseries analysis in Python`_ `and in R`_ along with best practices for publishng data, software and workflows. 
 
   * GeoChronR workshops (2016, 2017, 2021, 2022)
 
 Compilation Working Groups
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The `LiPDverse`_ has information on a number of paleo compilation projects have that adopted LinkedEarth tools.
+The `LiPDverse`_ has information on a number of paleo compilation projects have that adopted LinkedEarth tools. A `graph database`_ that can support complex queries is also available to the community and can be accessed via `PyLiPD`_. 

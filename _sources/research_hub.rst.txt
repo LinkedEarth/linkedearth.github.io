@@ -10,6 +10,9 @@ Research Hub
   :align: center
   :alt: the LinkedEarth research hub
 
+**The research hub sunsetted on August 31st 2024. This page is for archive information only.** 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 What is the hub and who is it for?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 If you have access to a decent internet connection, you can use the `LinkedEarth JupyterHub`_ for your research. A `JupyterHub`_ is a curated computational environment that runs in the cloud, and makes it possible to provide advanced data science access to any user in the world. Our hub is designed for people of all levels of Python proficiency intending on using Pyleoclim in their own work, including, but not limited to, `paleoclimate data-model comparisons`_.
@@ -59,7 +62,7 @@ The server will automatically shut down after an inactive period of ~ 1 day; if 
 
 Data privacy & sharing
 ^^^^^^^^^^^^^^^^^^^^^^
-Your work on the hub cannot seen by other users, though it is accessible to :ref:`LinkedEarth administrators<core-team>` to ensure proper use and help when needed. All users have a folder called *shared* in their home directory. This is a read-only directory - you cannot write to it, but you can access and read from it. If you want to tinker with the files in this directory, you need to copy them to your own directory first. For more details see the `hub documentation`_.
+Your work on the hub cannot seen by other users, though it is accessible to :ref:`LinkedEarth administrators<core-team>` to ensure proper use and help when needed. All users have a folder called *shared* in their home directory. This is a read-only directory - you cannot write to it, but you can access and read from it. If you want to tinker with the files in this directory, you need to copy them to your own directory first. For more details see the `hub documentation <https://docs.2i2c.org/en/latest/>`_.
 
 Tutorials
 ^^^^^^^^^
@@ -73,7 +76,7 @@ There are various ways to get acquainted with Python in general and Pyleoclim in
 
 - If you are a LiPD user, you can use `pyLiPD`_ to open and manipulate the files. You can also try our self-paced `pyLiPD tutorials`_.
 
-- `PaleoBooks`_, a collection of Jupyter notebooks illustrating the scientific use of software libraries maintained by LinkedEarth. This collection will see rapid growth in 2022/2023, and will be designed for hub users. If you want the LinkedEarth team to develop notebooks that mimic the sort of analysis you might want to do, please request them on our `Discourse forum`_ or `open a GitHub issue`_. No one is here to scoop your ideas; we will just try to provide solutions to your problems to the best of our ability and in maximally re-usable ways.
+- `PaleoBooks`_, a collection of Jupyter notebooks illustrating the scientific use of software libraries maintained by LinkedEarth. This collection will see rapid growth in 2022/2023, and will be designed for hub users. If you want the LinkedEarth team to develop notebooks that mimic the sort of analysis you might want to do, please request them on `Discourse <https://discourse.linked.earth/c/science>` or `open a GitHub issue <https://github.com/LinkedEarth/PaleoBooks/issues/new/choose>`_. No one is here to scoop your ideas; we will just try to provide solutions to your problems to the best of our ability and in maximally re-usable ways.
 
 For details on further training opportunities and general ways to get help, please see the :ref:`community` page.
 

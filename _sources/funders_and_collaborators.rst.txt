@@ -8,13 +8,13 @@ Funders and Collaborators
 National Science Foundation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-LinkedEarth has originated from the `NSF EarthCube program`_. This award supported the creation of the `PaCTS standard`_, the `LinkedEarth wiki`_, and `Pyleoclim`_.
+LinkedEarth has originated from the `NSF EarthCube program`_ through an initial grant aimed at standardizing paleoclimate datasets . This award supported the creation of the `PaCTS standard`_, the `LinkedEarth wiki`_, and `Pyleoclim`_. The `NSF EarthCube program`_ has also supported most of the :ref:`analysis` and :ref:`community` activities under the `PaleoCube award`_.
 
 `GeoChronR`_ was supported by a grant for the `NSF Geoinformatics program`_.
 
 `PReSto`_ is funded under the `NSF Geoinformatics program`_.
 
-The `NSF EarthCube program`_ is currently supporting most of the :ref:`analysis` and :ref:`community` activities under the `PaleoCube award`_.
+`FROGS`_ is supported by the `NSF Geosciences Open Science Ecosystem (GEO OSE) program`_.
 
 NOAA
 ^^^^

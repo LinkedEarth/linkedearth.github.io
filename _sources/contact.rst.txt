@@ -6,12 +6,10 @@ Contact LinkedEarth
 ===================
 
 **GITHUB**
-+++++++++++
 
 All technical discussion should go through GitHub. Please use project-specific GitHub repository.
 
-**OTHER CHANNELS**
-+++++++++++++++++++
+**OTHER MEDIA**
 
 LinkedEarth's online presence also includes:
 
