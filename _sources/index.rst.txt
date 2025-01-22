@@ -17,13 +17,13 @@ A community for the paleosciences
 What is LinkedEarth?
 """"""""""""""""""""
 
-LinkedEarth is a community of paleoscientists working to develop standards and software to enable paleoscience in the era of Big Data. This community produces data products and standards, software, cyberinfrastructure, and training opportunities.
+LinkedEarth is a community of paleoscientists working to develop standards and software to advance paleoscience in the era of Big Data. This community creates data products, establishes standards, develops software and cyberinfrastructure, and provides training opportunities.
 
-LinkedEarth originated in 2016 through a grant from the National Science Foundation EarthCube program. The original goal of the project was to create a platform for the archival of paleoclimate dataset and to centralize the discussion about standardization of these datasets. Since then, the community has grown towards using these standards to build automated tools for the analysis of these datasets and other data products.
+LinkedEarth originated in 2016 through a grant from the National Science Foundation's EarthCube program. The project's initial goal was to create a platform for archiving paleoclimate datasets and centralizing discussions about standardizing these datasets. Since then, the community has expanded its focus to include leveraging these standards to build automated tools for analyzing datasets and creating other data products.
 
-There is no formal registration for LinkedEarth. We hope that you will join this growing community because the tools we provide become part of your scientific workflow.
+There is no formal registration process to join LinkedEarth. We encourage you to become part of this growing community and integrate our tools into your scientific workflow.
 
-This website contains general information about LinkedEarth. For news and updates, please follow our `Medium blog <https://medium.com/cyberpaleo>`_ and our `Twitter feed <https://twitter.com/linked_earth>`_.
+This website provides general information about LinkedEarth. For news and updates, follow our `Medium blog <https://medium.com/cyberpaleo>`_, `Twitter feed <https://twitter.com/linked_earth>`_ and `BlueSky account <https://bsky.app/profile/linkedearth.bsky.social>_`.
 
 People
 """"""
@@ -33,7 +33,7 @@ People
 Core Team
 ^^^^^^^^^
 
-As of 2021, the core team is composed of:
+As of 2025, the core team is composed of:
 
 .. raw:: html
 
