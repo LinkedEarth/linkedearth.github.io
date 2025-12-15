@@ -1,6 +1,0 @@
-.. _gallery:
-
-Gallery
-========
-
-Please visit `http://linked.earth/PaleoBooks/index.html <http://linked.earth/PaleoBooks/index.html>`_ to browse a wide range of interactive example notebooks.
