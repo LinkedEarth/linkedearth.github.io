@@ -1,0 +1,61 @@
+---
+page-layout: full
+---
+<div class="gradient-text">
+
+<div class="welcome-headline">
+Welcome to LinkedEarth<br>
+</div>
+<div class="welcome-subheadline">
+A collaboratory for the future of past climates
+</div>
+</div>
+
+::::{.background style="padding: 40px 0;"}
+::: {.content-container}
+::: {.welcome }
+
+::: grid
+::: {.g-col-12 .g-col-lg-10 .welcome-text style="padding: 30px; background: white; border-radius: 10px;"}
+
+LinkedEarth is a community-driven initiative dedicated to advancing paleoclimate science through open data sharing, collaborative research, and digital tools. We bring together paleoclimate experts and data scientists to extract more information about Earth's past climates, with the goal of better informing its future.
+
+### Synopsis
+
+
+{{< video https://www.youtube.com/watch?v=vXJ7wdCzVgI title="LinkedEarth, 5min version" width="740" start="0" aspect-ratio="16x9" >}}
+
+
+### Offerings
+
+<div style="font-size: 0.9em;">
+
+- **[Data Curation](data/)**: Data standards and compilations supporting comprehensive analysis
+- **[Analysis Tools](tools/)**: Open-source software supporting this analysis
+- **[Community Support](community/)**: Collaborative environment for researchers and students alike
+- **[Training Resources](training/)**: Workshops, tutorials, and educational materials
+
+</div>
+
+### Connect
+
+<div style="font-size: 1.5em; margin: 20px 0;">
+  <a href="https://github.com/LinkedEarth" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;" aria-label="GitHub"><i class="bi bi-github" aria-hidden="true"></i></a>
+  <a href="https://twitter.com/Linked_Earth" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;" aria-label="Twitter"><i class="bi bi-twitter" aria-hidden="true"></i></a>
+  <a href="https://bsky.app/profile/linkedearth.bsky.social" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;" aria-label="Bluesky"><i class="bi bi-bluesky" aria-hidden="true"></i></a>
+  <a href="https://medium.com/cyberpaleo" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;" aria-label="Medium"><i class="bi bi-medium" aria-hidden="true"></i></a>
+  <a href="https://discourse.linked.earth/" target="_blank" rel="noopener noreferrer" style="margin-right: 15px;" aria-label="Discourse forum"><i class="bi bi-chat-left-text" aria-hidden="true"></i></a>
+  <a href="mailto:linkedearth@gmail.com?subject=Request%20to%20Join%20LinkedEarth%20Community%20Slack%20Workspace&body=Hi%2C%0A%0AI%20would%20like%20to%20join%20the%20LinkedEarth%20Community%20Slack%20workspace.%0A%0AName%3A%20%0AInstitution%3A%20%0AResearch%20interests%3A%20%0A%0AThank%20you!" style="margin-right: 15px;" aria-label="Slack - Request Access"><i class="bi bi-slack" aria-hidden="true"></i></a>
+  <a href="mailto:linkedearth@gmail.com" style="margin-right: 15px;" aria-label="Email"><i class="bi bi-envelope" aria-hidden="true"></i></a>
+  <a href="https://docs.google.com/document/d/1WxfYztmehBRCjMRWA8VMrWxe_4by2XPa3W3vCeF7CSo/edit?usp=sharing" target="_blank" rel="noopener noreferrer" aria-label="Google Drive"><i class="bi bi-google" aria-hidden="true"></i></a>
+</div>
+
+
+
+:::
+:::
+
+:::
+:::
+::::
+

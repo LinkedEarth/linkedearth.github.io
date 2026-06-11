@@ -1,0 +1,41 @@
+---
+title: &TITLE Jordan Landers
+first: Jordan
+last: Landers
+people_group: gradstudent
+email: ""
+subtitle: Graduate Student, University of Southern California
+key_areas: "Paleoclimatology, causal inference, PaleoBooks, Pyleoclim development"
+image: jordan.jpeg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: jordan.jpeg
+---
+
+<hr>
+
+:::{#about}
+
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::
