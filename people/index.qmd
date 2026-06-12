@@ -1,0 +1,74 @@
+---
+title: "LinkedEarth Community"
+listing:
+  - id: coreteam
+    include:
+      people_group: "coreteam"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    contents: "**/*.qmd"
+    fields: [title, subtitle, image]
+  - id: researcher
+    include:
+      people_group: "researcher"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    contents: "**/*.qmd"
+    fields: [title, subtitle, image, key_areas]
+  - id: gradstudent
+    include:
+      people_group: "gradstudent"
+    exclude:
+      external: true
+    template: ../_ejs/people-box.ejs
+    sort: last
+    contents: "**/*.qmd"
+    fields: [title, subtitle, image, key_areas]
+  - id: pastmember
+    include:
+      people_group: "pastmember"
+    exclude:
+      external: true
+    template: ../_ejs/alumni-box.ejs
+    sort: last
+    contents: "**/*.qmd"
+    fields: [title, subtitle, image, key_areas]
+page-layout: full
+---
+
+
+## Core Team
+
+::: {#coreteam}
+:::
+
+:::{.background}
+
+::: {.callout-note}
+## Example Entries
+The people below are example entries from the original template. Replace with actual LinkedEarth community members.
+:::
+
+:::
+
+## Current Members
+
+::: {#researcher}
+:::
+
+::: {#gradstudent}
+:::
+
+:::{.sand-background}
+## Past Members
+
+::: {#pastmember}
+:::
+
+:::
+
+

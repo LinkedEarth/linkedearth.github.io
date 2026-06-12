@@ -1,0 +1,46 @@
+---
+title: &TITLE Cody Rouston
+first: Cody
+last: Rouston
+people_group: pastmember
+email: ""
+subtitle: Alumnus, University of Arizona 
+key_areas: "Paleoclimate data synthesis, data analysis, dendrochronology"
+website: "https://scholar.google.com/citations?user=TQAQTl0AAAAJ&hl=en"
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: globe
+      text: Website
+      href: https://scholar.google.com/citations?user=TQAQTl0AAAAJ&hl=en
+---
+
+<hr>
+
+:::{#about}
+
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::

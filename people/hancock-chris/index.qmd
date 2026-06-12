@@ -1,0 +1,46 @@
+---
+title: &TITLE Chris Hancock
+first: Chris
+last: Hancock
+people_group: pastmember
+email: ""
+subtitle: Alumnus, Northern Arizona University
+key_areas: "Paleoclimate data synthesis, data assimilation, compositeR development"
+website: "https://clhancock.shinyapps.io/Website/"
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: globe
+      text: Website
+      href: https://clhancock.shinyapps.io/Website/
+---
+
+<hr>
+
+:::{#about}
+
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::

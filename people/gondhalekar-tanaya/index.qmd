@@ -1,0 +1,41 @@
+---
+title: &TITLE Tanaya Gondhalekar
+first: Tanaya
+last: Gondhalekar
+people_group: gradstudent
+email: ""
+subtitle: Graduate Student, University of Southern California
+key_areas: "Paleoclimate data assimilation, proxy system modeling"
+image: tanaya.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: tanaya.jpg
+---
+
+<hr>
+
+:::{#about}
+
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::

@@ -1,0 +1,63 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!publications/_template/"
+    - "!people/_template/"
+  resources:
+    - CNAME
+
+
+website:
+  title: "LinkedEarth"
+  site-url: "https://linked.earth/"
+  repo-url: "https://github.com/LinkedEarth/linkedearth.github.io"
+  favicon: images/linkedearth-logo.png
+  twitter-card: true
+  page-navigation: false
+  search: true
+  page-footer:
+    background: "#f8f9fa"
+    center: © 2026 LinkedEarth &middot; Made with
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    right: '<a class="nav-link" href="https://github.com/LinkedEarth/linkedearth.github.io" aria-label="GitHub repository for the LinkedEarth website"><i class="bi bi-github" aria-hidden="true"></i></a>'
+
+  navbar:
+    search: true
+    title: false
+    logo: images/linkedearth-logo.png
+    background: "#f8f9fa"
+    logo-alt: "LinkedEarth"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: data/index.qmd
+        text: Data
+      - href: tools/index.qmd
+        text: Tools
+      - href: community/index.qmd
+        text: Community
+      - href: training/index.qmd
+        text: Training
+      - href: funding/index.qmd
+        text: Funding
+
+  sidebar:
+    - id: empty-to-suppress-sidebars-on-other-pages
+
+
+format:
+  html:
+    theme: 
+      - styles/custom.scss
+      - yeti
+    mainfont: Nunito Sans
+    toc: true
+    link-external-newwindow: true
+    date-format: "MMM YYYY"
+    smooth-scroll: true
+    resources:
+      - images
+
+
+

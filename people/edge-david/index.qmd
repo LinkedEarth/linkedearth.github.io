@@ -1,0 +1,46 @@
+---
+title: &TITLE David Edge
+first: David
+last: Edge
+people_group: researcher
+email: ""
+subtitle: Research Scientist, Northern Arizona University
+key_areas: "PReSto technical lead, data science, containerization and reproducibility"
+website: "https://directory.nau.edu/departments?id=10200&person=dce25&src=cefns"
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: globe
+      text: Website
+      href: https://directory.nau.edu/departments?id=10200&person=dce25&src=cefns
+---
+
+<hr>
+
+:::{#about}
+
+
+<br>
+
+:::
+
+## {{< meta first >}}'s Group Publications
+
+:::{#pubs}
+:::
