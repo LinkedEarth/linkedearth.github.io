@@ -24,6 +24,7 @@ about:
   id: about
   template: trestles
   image-shape: round
+  image-alt: "Varun Ratnakar"
   image: VarunPassportPhoto.jpeg
   links:
     - icon: globe

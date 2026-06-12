@@ -24,6 +24,7 @@ about:
   id: about
   template: trestles
   image-shape: round
+  image-alt: "Chris Heiser"
   image: avatar.jpg
   links:
     - icon: globe

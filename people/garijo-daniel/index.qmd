@@ -24,6 +24,7 @@ about:
   id: about
   template: trestles
   image-shape: round
+  image-alt: "Daniel Garijo"
   image: avatar.jpg
   links:
     - icon: envelope

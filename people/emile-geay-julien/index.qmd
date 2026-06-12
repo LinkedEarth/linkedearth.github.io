@@ -24,6 +24,7 @@ about:
   id: about
   template: trestles
   image-shape: round
+  image-alt: "Julien Emile-Geay"
   image: julien.jpg
   links:
     - icon: envelope

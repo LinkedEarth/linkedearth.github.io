@@ -24,6 +24,7 @@ about:
   id: about
   template: trestles
   image-shape: round
+  image-alt: "Deborah Khider"
   image: deborah.jpg
   links:
     - icon: envelope

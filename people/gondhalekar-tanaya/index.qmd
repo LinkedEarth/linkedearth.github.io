@@ -23,6 +23,7 @@ about:
   id: about
   template: trestles
   image-shape: round
+  image-alt: "Tanaya Gondhalekar"
   image: tanaya.jpg
 ---
 

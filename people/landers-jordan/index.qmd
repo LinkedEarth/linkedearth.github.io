@@ -23,6 +23,7 @@ about:
   id: about
   template: trestles
   image-shape: round
+  image-alt: "Jordan Landers"
   image: jordan.jpeg
 ---
 
