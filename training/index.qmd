@@ -25,7 +25,7 @@ This training workshop is designed to introduce users to all of three of these c
 
 ##### FROGS
 
-![Participants in the PyRATES Workshop, Marina Del Rey, June 2024](../images/PyRATES.png)
+![Participants in the PyRATES Workshop, Marina Del Rey, June 2024](../images/PyRATES.png){fig-alt="Participants in the PyRATES Workshop, Marina Del Rey, June 2024"}
 
 The Facilitating Reproducible and Open GeoScience ([FROGS](https://linked.earth/FROGS/)) project is a National Science Foundation-supported LinkedEarth initiative that trains geoscientists to adopt reproducible and open science practices through comprehensive workshop programs. Recognizing that sharing research data, software, and workflows is fundamental to building a Findable, Accessible, Interoperable, and Reusable (FAIR) open science ecosystem, FROGS has delivered training events that combine synchronous hackathons with weeks of practical exercises, allowing participants at various career stages to integrate publishing principles directly into their research workflows. Throughout these follow-up periods, office hours provide personalized support as researchers apply new skills to their own projects, ensuring lasting impact beyond the initial workshop. To support both workshop participants and the broader geoscience community, FROGS developed LeapFROGS, a free interactive platform with curated lecture materials and self-graded exercises in [Python](http://linked.earth/LeapFROGS/) and [R](http://linked.earth/RLeapFROGS/) that enables self-paced learning on science practice and publishing. Learn more about our workshop outcomes [here](https://linkedearth.github.io/FROGS/pastworkshops), and explore [all FROGS products](https://linkedearth.github.io/FROGS/resources), including learning materials and YouTube tutorials.
 
@@ -33,7 +33,7 @@ The Facilitating Reproducible and Open GeoScience ([FROGS](https://linked.earth/
 
 ##### PaleoHack
 
-![Participants in the GeoChronR Workshop, Flagstaff, August 2017](../images/GeoChronR.JPG)
+![Participants in the GeoChronR Workshop, Flagstaff, August 2017](../images/GeoChronR.JPG){fig-alt="Participants in the GeoChronR Workshop, Flagstaff, August 2017"}
 
 
 PaleoHack is a series of online and in-person workshops designed to put tools such as [Pyleoclim](https://pyleoclim-util.readthedocs.io/en/latest/), [GeoChronR](https://nickmckay.org/GeoChronR/), and the [Python](https://pylipd.readthedocs.io/en/latest/) and [R](http://nickmckay.org/lipdR/) tools to read, manipulate, and write LiPD files in the hands of the community. Over the past decade, the hackathons have taken multiple modalities including in-person and online workshops, specialized sessions for target groups working on paleoclimate compilations or specific scientific workflows, and department-focused sessions. If you are interested in organizing a session for your group or your department, [contact us](mailto:linkedearth@gmail.com).
