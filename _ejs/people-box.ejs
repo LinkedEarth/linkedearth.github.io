@@ -10,7 +10,7 @@
 
 
 
-      <% if (item.website) { %>
+      <% if (typeof item.website === 'string' && item.website) { %>
       <a href="<%- item.website %>" role="button" class="quarto-grid-link" target="_blank" rel="noopener noreferrer">
       <% } else { %>
       <a href="<%- item.path %>" role="button" class="quarto-grid-link">

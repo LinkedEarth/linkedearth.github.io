@@ -7,6 +7,7 @@ email: ""
 subtitle: Graduate Student, University of Southern California
 key_areas: "Paleoclimate data assimilation, proxy system modeling"
 image: tanaya.jpg
+website: "https://scholar.google.com/citations?user=28yBkagAAAAJ&hl=en"
 listing:
   id: pubs
   template: ../../_ejs/publications-people.ejs
