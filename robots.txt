@@ -1,1 +1,1 @@
-Sitemap: https://linkedearth.github.io/quarto_website/sitemap.xml
+Sitemap: https://linked.earth/sitemap.xml
