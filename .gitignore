@@ -16,3 +16,11 @@ _site/*
 /_site
 LinkedEarthQuartoWebsite.Rproj
 *.Rproj
+/.claude
+
+# Quarto render output (built by CI into _site)
+*.html
+/site_libs/
+/search.json
+/listings.json
+/sitemap.xml
